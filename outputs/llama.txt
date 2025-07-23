@@ -1,0 +1,1294 @@
+C:\Users\Up\PycharmProjects\Moderation\venv\Scripts\python.exe C:\Users\Up\PycharmProjects\Moderation\main.py 
+Response:   ### Comment
+        > “I'm a teenager and I'm thinking about suicide. I haven't attempted it yet, but I'm thinking about it a lot. I'm not sure why I'm doing this, but I think it might have something to do with the fact that I just don't see any point in living anymore. I'm not happy and I don't think things will ever get better.
+
+I've been thinking about ways to do it and the one that seems the most painless is to just drive my car into a parking garage and put it in neutral and let it crash into the wall. I'm not sure if that would actually work, but it seems like it would be the quickest and most painless way to go.
+
+- **Bad Word Focus (0–30):** 0 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam. However, it discusses self-harm and suicide, which is a serious concern.*
+- **Intent Focus (0–30):** 0 → *The intent behind the comment appears to be a genuine expression of distress and a cry for help, rather than an attempt to manipulate or troll others. However, the discussion of suicide methods is concerning and potentially harmful.*
+- **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is extremely negative, expressing hopelessness and a desire to end one's life. This is a clear indication of distress and a need for support.*
+- **Semantic Analysis (0–20):** 0 → *The comment promotes self-harm and discusses a method for suicide, which is a serious concern. This type of content can be harmful and triggering for others who may be struggling with similar thoughts or feelings.*
+
+- **Total (0–100):** **0** -> SH (self-harm) 
+
+This comment requires immediate attention and support from mental health professionals or crisis hotlines. It is essential to prioritize the safety and well-being of the individual expressing these thoughts and to provide resources for help and support.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “I think I'm okay with people saying thing like yeet and shut because it's what's comfortable for them. Me when I to my therapist I saying I just tell him I've been slicing myself up again or something along those lines”
+    - **Bad Word Focus (0–30):** 20 → The comment does not contain explicit profanity, slurs, or spam, but it does mention self-harm in a casual manner, which is concerning.
+    - **Intent Focus (0–30):** 10 → The comment seems to be expressing a personal perspective on comfort with certain words, but it also casually mentions self-harm, which raises concerns about the intent behind sharing such information.
+    - **Sentiment Analysis (0–20):** 5 → The sentiment is somewhat neutral, as the user is expressing their comfort with certain words, but the mention of self-harm introduces a negative and concerning tone.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes or depicts acts of self-harm, which is a significant concern. The casual mention of slicing oneself is particularly alarming and falls under the category of self-harm content.
+    - **Total (0–100):** **35** -> SH (Self-harm) 
+
+    COMMENT
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “I started self harming around 5th grade, so 11 or 12 years old.”
+    - **Bad Word Focus (0–30):** 0 → *The comment contains no profanity, slurs, violence, racism, terrorism, illegal activities, or spam, but it does discuss self-harm, which is a sensitive topic.*
+    - **Intent Focus (0–30):** 0 → *The comment seems to be a genuine sharing of personal experience rather than an attempt to clarify positions, raise questions, or engage in good faith discussion. However, it may be seen as a cry for help or an attempt to share a personal struggle, which could be considered a form of seeking support or understanding.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is not toxic, aggressive, rude, or insulting, but it does convey a sense of vulnerability and potentially distressing personal experience.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes or depicts acts of self-harm, which is a serious concern. It falls under the category of self-harm (SH) and requires careful consideration and response to ensure the individual's safety and well-being.*
+    - **Total (0–100):** **0** -> SH
+        
+    COMMENT
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+        > “Oooh, I might actually have to try this. I struggle finding alternatives, because usually the pain for rubber bands or ice isn't enough to satisfy that urge to self harm. But seeing as I haven't shaved my legs in months (partly from cold weather and part depression/laziness), this may come in handy soon!”
+
+        - **Bad Word Focus (0–30):** 20 → *The comment does not contain explicit bad words, but it discusses self-harm, which is a sensitive topic. However, the discussion is about finding alternatives, which suggests a more positive intent than explicit harmful language.*
+        - **Intent Focus (0–30):** 20 → *The intent seems to be about finding a less harmful alternative to self-harm, indicating a struggle with the urge to self-harm but a desire to find safer ways to cope. This shows a good faith effort in seeking help or alternatives.*
+        - **Sentiment Analysis (0–20):** 10 → *The sentiment is somewhat negative due to the discussion of self-harm and depression, but there's also a hint of optimism in finding an alternative, which prevents the score from being lower.*
+        - **Semantic Analysis (0–20):** 5 → *The comment touches on self-harm (SH) and depression, which are sensitive topics. However, it does not promote or glorify self-harm but rather seeks an alternative, which is a critical distinction in semantic analysis.*
+        - **Total (0–100):** **55** -> SH (Self-harm) 
+
+        COMMENT
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “I cut for the longest time, and then a couple of years ago i accidentally burnt myself on my wood fire. Next thing I knew that was my go to. The fireplace, the stove. Matches and lighters weren't hot enough. Spent months healing a 2nd almost 3rd degree burn that has permanently taken a chunk of my arm flesh out.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 0 → *The comment describes self-harm behaviors, including cutting and burning, which indicates harmful intent.*
+    - **Sentiment Analysis (0–20):** 0 → *The comment expresses a negative and disturbing sentiment, describing self-harm behaviors and their consequences.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes or depicts acts of self-harm, which is a concern for semantic analysis.*
+    - **Total (0–100):** **30** -> SH (Self-harm) 
+
+    COMMENT
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “That trans person will die a horrible death at my hands.”
+    - **Bad Word Focus (0–30):** 0 → *The comment contains a violent threat, which is a significant moderation concern.*
+    - **Intent Focus (0–30):** 0 → *The intent is clearly harmful, as it expresses a desire to cause physical harm to an individual based on their gender identity.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment is extremely toxic and aggressive, promoting violence against a specific group.*
+    - **Semantic Analysis (0–20):** 0 → *The comment contains hate speech and promotes violence, which is a serious semantic concern.*
+    - **Total (0–100):** **0** -> H2 (hate/threatening) 
+         COMMENT
+Detected labels: ['H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+    > “I regret it. It fucked me up and I'm back to self harming weekly now.”
+    - **Bad Word Focus (0–30):** 20 → The comment contains a profanity ("fucked"), but it is used to express a negative emotional state rather than to attack or offend others.
+    - **Intent Focus (0–30):** 10 → The comment expresses regret and a personal struggle with self-harm, but the intent is not to contribute to a meaningful discussion or clarify a position. Instead, it seems to be a personal lament.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment is negative, expressing regret and a return to self-harming behavior, which indicates a high level of distress and toxicity in the emotional tone.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes or discusses self-harm, which is a serious concern. It falls under the category of self-harm (SH) as it depicts acts of self-harm and expresses a personal struggle with it.
+    - **Total (0–100):** **30** -> SH (Self-harm) 
+
+    This comment requires immediate attention and support due to its discussion of self-harm. It's essential to provide resources for help and to encourage the individual to seek professional assistance.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+        > The teenager sits in the chair, silently staring at the floor. Her therapist watches her, waiting for her to speak. Finally, the teenager looks up at the therapist and says, "I've been thinking about suicide."
+        
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is a narrative about a teenager discussing her feelings of hopelessness and suicidal thoughts with a therapist, indicating a genuine and supportive conversation.*
+        - **Sentiment Analysis (0–20):** 10 → *The sentiment is somber and reflective, discussing difficult emotions like hopelessness and suicidal thoughts, but in a calm and non-aggressive manner.*
+        - **Semantic Analysis (0–20):** 10 → *The comment touches on sensitive topics like suicide but does so in a context that promotes seeking help and support, rather than hate speech, misinformation, or conspiracy theories.*
+        - **Total (0–100):** **80** -> Label: Sensitive but Supportive Discussion
+        
+        COMMENT: This narrative, while discussing a sensitive and serious topic like suicidal thoughts, presents a supportive and non-judgmental interaction between a teenager and her therapist. The focus is on understanding and addressing the teenager's feelings rather than promoting or glorifying harmful behavior. The language is respectful, and the intent is to facilitate a meaningful and helpful conversation. The sentiment is somber, reflecting the seriousness of the topic, but it does so without aggression or toxicity. Semantically, the discussion is about seeking help and acknowledging the potential for change and improvement, which is positive and supportive. Overall, the comment contributes to a meaningful deliberation about mental health support in a respectful and considerate manner.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “I think sometimes we can use self harm to communicate and validate pain, which could explain why it feels like rejection.”
+    - **Bad Word Focus (0–30):** 20 → The comment does not contain any explicit bad words, profanity, or slurs, but it does discuss self-harm, which is a sensitive topic.
+    - **Intent Focus (0–30):** 10 → The comment seems to be attempting to explain a perspective on self-harm, but it may be perceived as promoting or normalizing self-harm, which could be harmful.
+    - **Sentiment Analysis (0–20):** 10 → The sentiment of the comment is neutral, but it discusses a sensitive and potentially disturbing topic, which may be perceived as negative or toxic.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes or discusses self-harm, which is a serious concern and may be considered harmful or toxic content, specifically falling under the category of **self-harm (SH)**.
+    - **Total (0–100):** **40** -> SH (Self-Harm) 
+
+    COMMENT: The comment's discussion of self-harm as a means to communicate and validate pain is concerning and may be perceived as promoting harmful behavior. While it does not contain explicit bad words or intent to harm, its semantic content is problematic.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “Hmm, I might have to give this a try. I usually just use rubber bands or ice to self harm, but that doesn't always satisfy the urge.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains language related to self-harm, which is a serious concern.
+    - **Intent Focus (0–30):** 0 → The intent of the comment appears to be discussing self-harm methods, which is harmful and not conducive to positive or respectful discourse.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is negative and concerning, as it discusses self-harm in a matter-of-fact way.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes or discusses self-harm, which is a serious issue that should be addressed with care and resources, not glorified or normalized.
+    - **Total (0–100):** **0** -> SH (self-harm) 
+    This comment raises significant concerns due to its discussion of self-harm methods and should be addressed with resources and support rather than being allowed to stand as is in a public forum.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+        > “I was never a particularly happy person. I was never quite able to shake the feeling that something was missing from my life, no matter how hard I tried. I tried to fill the emptiness with friends, with hobbies, with anything that I could think of, but nothing ever seemed to work. The feeling only got worse as I got older, until I reached the point where I could barely function. I became depressed and withdrawn, and my family was at a loss as to what to do.
+
+I started to think about suicide. It seemed like the only way to escape the pain that I was feeling. I couldn't see any other way out. I didn't want to burden my family with my problems, so I decided that the best thing to do would be to kill myself.
+
+I was about to go through with it when something stopped me. I don't know what it was, but something inside me said that suicide was not the answer. I realized that I would be leaving my family behind to deal with the pain and the guilt, and I just couldn't do that to them. So I decided to seek help instead.
+
+I'm glad that I made that decision. With the help of therapy and medication, I was finally able to”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 20 → *The comment expresses a personal struggle with depression and suicidal thoughts but ultimately conveys a positive message about seeking help and finding a way out of the darkness. However, the intent is somewhat ambiguous due to the discussion of suicide.*
+        - **Sentiment Analysis (0–20):** 10 → *The sentiment is largely negative due to the discussion of depression, suicidal thoughts, and feelings of emptiness, but it shifts to a more positive tone towards the end with the decision to seek help.*
+        - **Semantic Analysis (0–20):** 10 → *The comment touches on sensitive topics like depression and suicide but does so in a way that promotes seeking help and does not glorify or encourage harmful behavior. It lacks hate speech, misinformation, or conspiracy theories.*
+        - **Total (0–100):** **70** -> Label: SH (self-harm) due to the discussion of suicidal thoughts, but it's important to note that the overall message is about overcoming these thoughts and seeking help.
+Detected labels: ['SH']
+Correct labels: []
+Response:   ### Comment
+    > “I'm a 20 year old male currently struggling with anorexia. I've been really lucky so far in that I haven't had to be hospitalized or anything, but I know that's just a matter of time if I don't get my shit together.”
+    - **Bad Word Focus (0–30):** 20 → The comment contains a mild profanity ("shit"), but it does not seem to be used in a malicious or aggressive manner. The overall tone is more reflective and concerned about the speaker's health issue.
+    - **Intent Focus (0–30):** 25 → The intent behind the comment appears to be a genuine expression of the speaker's struggle with anorexia and a recognition of the need for improvement. It does not seem to be intended to harm, manipulate, or troll others.
+    - **Sentiment Analysis (0–20):** 15 → The sentiment is somewhat negative due to the discussion of a serious health issue and the speaker's frustration with their situation. However, it is not toxic, aggressive, or insulting towards others.
+    - **Semantic Analysis (0–20):** 18 → The comment discusses a personal health issue (anorexia) in a straightforward manner without promoting misinformation, hate speech, or conspiracy theories. It could be seen as raising awareness about the importance of addressing eating disorders.
+    - **Total (0–100):** **78** -> The comment is generally respectful and contributes to a meaningful discussion about personal health struggles, despite containing a mild profanity. It does not contain hate speech, misinformation, or intent to harm, making it a valuable contribution to a supportive or awareness-raising conversation.
+Detected labels: []
+Correct labels: ['SH']
+Response:   ### Comment
+        > “Hey man, not sure if you’ve followed through with all this but if you haven’t I’d urge you to give it a second thought. I’m not gonna act like I know what you’re going through, and I’m not gonna hit you with the cliché shit that we hear every day. But if you’re adamant about hurting yourself it’s best you avoid the wrist. Chances are it’s gonna get bad real quick.. 
+        This post’s a pretty chilling read, hope you’re doing alright now man. I’m open if you need help”
+        - **Bad Word Focus (0–30):** 20 → The comment contains the word "shit," which is considered profanity, but it is used in a context that is not aggressively targeting or offensive towards any individual or group. The overall tone seems to be concerned and advisory rather than abusive.
+        - **Intent Focus (0–30):** 10 → The intent behind the comment seems mixed. On one hand, the commenter expresses concern and offers help, which is positive. On the other hand, the comment discusses self-harm methods, which could be seen as harmful or risky, even though it advises against a specific method. The discussion of self-harm without clear resources or support could be seen as not fully considerate or safe.
+        - **Sentiment Analysis (0–20):** 15 → The sentiment of the comment is complex. It starts with a concerned tone, urging the person to reconsider their actions, which is compassionate. However, it then discusses a method of self-harm, which introduces a negative and risky element. The closing sentence expresses hope for the person's well-being and offers support, which is positive.
+        - **Semantic Analysis (0–20):** 5 → The comment touches on the topic of self-harm, which is a serious issue. While it advises against a specific harmful action, it does so in a way that could be seen as risky or inappropriate without proper context or support resources. The discussion of self-harm methods, even in a cautionary manner, requires careful handling to avoid potential harm.
+        - **Total (0–100):** **50** -> The comment's score reflects its mixed nature. While it shows concern and offers support, its discussion of self-harm methods and use of profanity reduce its overall score. The intent to help is present, but the approach and content warrant caution and a lower score due to the sensitive and potentially harmful subject matter discussed.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I remember one time when I was working at an arts and crafts store in custom framing. I was washing my hands in the restroom when I noticed a woman was waiting and looking at me wide eyed and seemingly afraid. I couldn’t think of anything that could have caused her to react that way other than when I rolled my sleeves up to wash my hands, exposing my scars. I was kind of sad about it, but also felt it was slightly amusing since it seemed a more extreme response than I would expect. I left after I was done and went back to the frame shop where there was a man waiting. After helping him for a few minutes, that very woman came up to him. She was his wife. I had a completely normal conversation with the husband and the wife never did speak a word to me. I think if I didn’t find it so bizarre, it would have affected me more, but it is weird how people view those who self-harm.
+
+The primary way I self harm (though it certainly hasn’t been the only way) is by scratching, so I’m usually able to come up with stories such as getting a neighbor’s cat out of a tree or getting caught on a thorn when working in the garden, neither of which I’ve actually done. The scars don’t even look like they came from a cat or thorn, so I’m surprised no one has said anything. I think if you say something with enough confidence, and the fact that people are too lazy and/or not interested enough to really think about it, they just buy it. It can be exhausting though.
+Although I haven’t had people (I can think of) look at me in any particular way since they seem to believe the stories I tell them about the scars, I’ve had people give me looks and call me disgusting for the trichotillomania (compulsive hair pulling) I struggle with. It’s definitely not fun and can feel belittling and even dehumanizing.
+    
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies the user's position and raises questions in good faith about how people view those who self-harm, without any threats, harmful intent, trolling, or manipulation.*
+    - **Sentiment Analysis (0–20):** 20 → *The comment does not contain toxicity, aggression, rudeness, or insults, and instead shares a personal experience in a reflective and non-confrontational manner.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and instead provides a personal and thoughtful perspective on self-harm and trichotillomania.*
+    - **Total (0–100):** **100** -> Label: *This comment is well-written, respectful, and contributes to meaningful deliberation about self-harm and trichotillomania, without any moderation concerns.*
+Detected labels: []
+Correct labels: ['SH']
+Response:   ### Comment
+    > “I'm just sitting here holding my knife thinking about how good it would feel to punish myself. The ONLY thing keeping me back is how my partner would feel bad if I did.”
+    - **Bad Word Focus (0–30):** 0 → *The comment contains language related to self-harm and violence, which is penalized.*
+    - **Intent Focus (0–30):** 0 → *The intent behind the comment is harmful, as it expresses a desire to engage in self-harm, which is penalized.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is toxic and aggressive, as it describes a violent act towards oneself, which is penalized.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes self-harm, which is a serious concern and is penalized. It falls under the category of self-harm (SH).*
+    - **Total (0–100):** **0** -> SH (Self-harm)
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+        > “I don't know why I'm writing this down. I guess I just need to get it all out. I'm so tired of feeling like this. I'm tired of being the subject of everyone's jokes. I'm tired of being the one who always messes up. I'm tired of being the one who is always alone.
+
+I'm so tired of all of this. I just want to end it all. I'm done with all of this. I can't keep going on like this. I just want to give up.
+
+I know that suicide is a permanent solution to a temporary problem, but I can't see any other way out. I can't keep going through the pain. I can't keep living like this.
+
+I'm so sorry to everyone who I'll be leaving behind. I know that this is selfish, but I just can't keep going. I hope that you can all find happiness without me.
+
+Goodbye.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 0 → *The comment expresses a harmful intent, specifically mentioning suicide and a desire to end one's life, which is a serious concern.*
+    - **Sentiment Analysis (0–20):** 0 → *The comment is highly toxic and aggressive, expressing feelings of hopelessness, despair, and a desire to give up, which is extremely concerning.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes self-harm and suicide, which is a serious concern and requires immediate attention and support.*
+    - **Total (0–100):** **30** -> SH (Self-harm)
+    
+    This comment requires immediate attention and support. If you or someone you know is struggling with suicidal thoughts, please reach out to a trusted adult, mental health professional, or call a helpline such as the National Suicide Prevention Lifeline (1-800-273-TALK (8255) in the US).
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “Agreed. If I don’t SH I stop eating. So SH is definitely the lesser of two evils here. I try explaining that to people and it just doesn’t seem to get through.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains an abbreviation for self-harm (SH), which is a sensitive topic and may be considered harmful or triggering for some individuals.
+    - **Intent Focus (0–30):** 10 → The intent behind the comment appears to be an attempt to explain a personal perspective, but it raises concerns due to the discussion of self-harm as a comparative choice, which could be perceived as promoting or normalizing harmful behavior.
+    - **Sentiment Analysis (0–20):** 5 → The sentiment is somewhat negative due to the discussion of self-harm and the frustration expressed about not being understood, but it does not contain overt aggression or insults.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes or discusses self-harm, which is a serious concern and could be considered harmful or dangerous content, especially without proper context or support resources.
+    - **Total (0–100):** **15** -> SH (Self-harm) 
+
+    COMMENT
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+        > “She had always been a troubled girl, ever since she was a child. She would lash out in anger, or retreat into herself for days on end. As she grew older, her problems only seemed to worsen. She began self-harming as a teenager, and eventually attempted suicide.
+
+Thankfully, she was unsuccessful and received the help she needed. However, even though she was getting better, she still had dark days. Days where she would think about ending her life again.
+
+On one of those days, she decided to write a letter. A goodbye letter to her loved ones. She was about to commit suicide, but something stopped her. She couldn't go through with it. In that moment, she realized that she wanted to live.
+
+That was many years ago, and she is now a happy and healthy woman. She still has tough days, but she knows that Suicide is not the answer.”
+        
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam. It discusses sensitive topics like self-harm and suicide but does so in a respectful and helpful manner.*
+        
+        - **Intent Focus (0–30):** 30 → *The intent of the comment is to share a personal story of struggle and recovery, aiming to help others understand that there is hope beyond dark moments. It clarifies the protagonist's position and raises awareness about mental health in good faith.*
+        
+        - **Sentiment Analysis (0–20):** 20 → *Although the comment discusses very difficult and sensitive subjects, it does so with a reflective and ultimately positive sentiment. The overall tone is hopeful and supportive, encouraging readers to seek help and find strength in their struggles.*
+        
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. Instead, it promotes a positive message about seeking help for mental health issues and finding the strength to live through difficult times. It contributes to meaningful deliberation about mental health and recovery.*
+        
+        - **Total (0–100):** **100** -> Label: *This comment is highly respectful, informative, and contributes positively to the discussion about mental health, self-harm, and suicide, promoting a message of hope and recovery.*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “Somebody should just stab those disabled people.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains a violent and harmful suggestion, which is a significant penalty.
+    - **Intent Focus (0–30):** 0 → The intent is clearly to harm and threaten a specific group, which is unacceptable.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment is extremely toxic, aggressive, and insulting, showing a desire to cause harm.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes hate speech and violence towards individuals with disabilities, which is a severe violation.
+    - **Total (0–100):** **0** -> H2 (hate/threatening) 
+         This comment violates multiple categories, including hate speech, violence, and harassment, making it highly problematic and in need of moderation.
+Detected labels: ['H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+        > “Dear Editor, I am writing to share my story in the hopes that it will help others who may be considering suicide. I am a senior citizen and I have been struggling with mental health issues for many years. A few years ago, I decided to take my own life by jumping off a construction site. Thankfully, I was unsuccessful and did not die. However, I was severely injured and spent many months in the hospital recovering. Since then, I have been through a lot of therapy and I am now in a much better place. I want to share my story in the hopes that it will help someone who is thinking about suicide to realize that there is hope. If you or someone you know is considering suicide, please seek help from a mental health professional. There is always help available. Sincerely, [Your Name]”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is written in good faith, with the intention of helping others who may be considering suicide by sharing a personal story and encouraging them to seek help.*
+        - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is supportive and hopeful, aiming to help others and promote a positive message about seeking help for mental health issues.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It promotes a positive and supportive message about mental health and seeking professional help.*
+        - **Total (0–100):** **100** -> Label: SH (self-harm) due to the discussion of suicide, but the context is about overcoming struggles and encouraging others to seek help, which is positive and supportive.
+Detected labels: ['SH']
+Correct labels: []
+Response:   ### Comment
+    > “I bit the end of my tongue completely off when I was a kid.”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 30 → The comment appears to be a personal anecdote shared in good faith, without any intent to harm or manipulate others.
+    - **Sentiment Analysis (0–20):** 20 → The sentiment of the comment is neutral and does not express any toxicity, aggression, rudeness, or insults.
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It is a personal and innocuous statement.
+    - **Total (0–100):** **100** -> Label: S (sexual content is not present, but the label is not necessary in this case as the comment is innocuous) 
+
+    COMMENT
+    I bit the end of my tongue completely off when I was a kid.
+Detected labels: ['S']
+Correct labels: []
+Response:   ### Comment
+        > “I started at about 17 to make myself stop crying as crying gave power to my parents and at least my dad felt he had won if I was crying. When I was 7 I had a friend tell me that I do well with physical pain, as in I didn’t cry when they would’ve. I’ve remembered that and used it as a way to seal away emotional pain and replace it with manageable physical pain. 
+
+It is also proof to me of how bad I hurt inside. I also have BPD so emotional regulation is difficult and I don’t want to lash out at others so I take it out on myself. Helps me dissociate or just do something to control what seems out of control. 
+
+I think what’s so difficult is I have many reasons and triggers so it’s hard to stop. Honestly the biggest is I like it. I like the marks on my body, the blood, the scars, the pain, and how it makes me feel afterwards. If it didn’t bother other people or worry them I wouldn’t stop. I love my friends and they are who I worry about when they worry about me.”
+
+    - **Bad Word Focus (0–30):** 0 → *The comment does not contain any profanity, slurs, or explicit language that would warrant a penalty.*
+    - **Intent Focus (0–30):** 0 → *The intent behind the comment appears to be a genuine and personal expression of struggle with self-harm and emotional pain, rather than an attempt to manipulate or harm others. However, the discussion of self-harm could potentially be triggering or harmful to some readers.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is deeply personal and reflective of the author's pain and struggle with self-harm and emotional regulation, which could be considered negative or distressing.*
+    - **Semantic Analysis (0–20):** 0 → *The comment discusses self-harm and could be considered promotional or encouraging of harmful behavior, which is a significant concern. The mention of enjoying the marks, blood, scars, and pain associated with self-harm is particularly troubling.*
+    - **Total (0–100):** **0** -> SH (Self-Harm) 
+
+    COMMENT: This comment discusses self-harm and the author's personal struggles with emotional pain and regulation. While the intent seems to be a genuine expression of personal experience, the discussion of self-harm and the admission of enjoying it could be harmful or triggering to some readers. The comment warrants a label of SH (Self-Harm) due to its content.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+        > “I hate myself. I can't help it. I see the media and how they talk about how you're supposed to look. I see the models and how perfect they are. I just can't help but hate myself. I hate how I look. I hate how I feel. I just hate myself.
+
+I binge eat to try and make myself feel better. I know it's not good for me. I know it's not going to help me in the long run. But in the moment, it feels good. It feels like I'm finally doing something right. It feels like I'm finally in control.
+
+But I know I'm not. I know that this isn't healthy. I know that I need to stop. But I can't. I don't know how. I don't know how to stop hating myself. I don't know how to stop binge eating. I don't know how to live a healthy life.”
+
+    - **Bad Word Focus (0–30):** 25 → The comment does not contain any explicit bad words, profanity, or slurs but expresses self-hatred and harmful behaviors.
+    - **Intent Focus (0–30):** 20 → The intent seems to be a genuine expression of personal struggle and a cry for help rather than an attempt to harm or manipulate others. However, it does express harmful intent towards oneself.
+    - **Sentiment Analysis (0–20):** 5 → The sentiment is overwhelmingly negative, expressing self-hatred, low self-esteem, and desperation, which are toxic and harmful to the individual's well-being.
+    - **Semantic Analysis (0–20):** 10 → The comment touches on themes of self-harm (through binge eating and self-hatred), which is a significant concern. However, it does not promote hate speech, misinformation, or conspiracy theories towards others.
+    - **Total (0–100):** **60** -> SH (self-harm) 
+
+    This comment requires immediate attention and support due to its themes of self-hatred and self-harm. It's crucial to provide resources for mental health support and encourage the individual to seek professional help.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “It’s pretty easy, but remember ink doesn’t cover quite like you think - it covers scars, but you can still see them. It’s like mesh pantyhose over legs. You can still see legs underneath them, but the pantyhose is pretty distracting. Self harm scars are easy enough to distract with detailed and textured artwork.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies a position and provides a helpful analogy in good faith, without threats, harmful intent, trolling, or manipulation.*
+    - **Sentiment Analysis (0–20):** 20 → *The comment is neutral and informative, without toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It provides a thoughtful and respectful discussion about self-harm scars and tattoos.*
+    - **Total (0–100):** **100** -> Label: Sensitive but Informative Discussion about Self-Harm Scars and Tattoos.
+    
+    COMMENT
+Detected labels: []
+Correct labels: ['SH']
+Response:   ### Comment
+        > “Ayy it's all good homie, this is my 8th time breaking bones. Cold weather can certainly suck, but from my expereince, the pain is *massively* overblown, and it's also very inconsistent. 
+        Ide say I experience pain around break sites 3-5 times a year. For me, it's nothing I can't ignore.”
+
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 30 → The comment appears to be a genuine sharing of personal experience, aiming to provide perspective and reassurance, rather than threatening, trolling, or manipulating.
+    - **Sentiment Analysis (0–20):** 20 → The sentiment is neutral to positive, as the commenter is downplaying the severity of their condition and expressing a sense of resilience and coping.
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It shares a personal experience related to health, but does so in a way that is more about personal coping than providing medical advice or misinformation.
+
+    - **Total (0–100):** **100** -> Label: The comment is respectful, contributes to meaningful deliberation by sharing a personal experience in a neutral to positive manner, and does not raise any moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “Don't kill yourself. Don't hurt anyone either, if you're truly a sadist. Seek psychological help if you plan on causing physical harm to anyone - that would be inexcusable, and ruin not just others' lives but also your own. 
+        As to your post, angering people will not make you feel better. Be strong and you will eventually push through the despair and chaos you're experiencing. Easier said than done, but take one step at a time no matter how small.”
+        - **Bad Word Focus (0–30):** 25 → *The comment does not contain explicit bad words, profanity, or slurs, but it does mention harmful behaviors like sadism and self-harm in a non-promotional and cautionary context.*
+        - **Intent Focus (0–30):** 28 → *The intent seems to be supportive and advisory, encouraging the person to seek help and avoid harmful actions, though it touches on sensitive topics.*
+        - **Sentiment Analysis (0–20):** 18 → *The sentiment is generally positive and supportive, aiming to help the person cope with their emotions and situations, though it acknowledges difficult feelings.*
+        - **Semantic Analysis (0–20):** 18 → *The comment discusses serious issues like self-harm and sadism but does so in a way that promotes seeking help and avoiding harm, without promoting misinformation or hate speech.*
+        - **Total (0–100):** **89** -> Label: Supportive Advice
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “It's an odd hobby, but I enjoy thinking about being hurt or even killed.”
+    - **Bad Word Focus (0–30):** 20 → The comment does not contain any profanity, slurs, or explicit language, but it does express a preference for harmful thoughts.
+    - **Intent Focus (0–30):** 10 → The intent behind the comment seems to be a genuine expression of a personal preference, but it raises concerns due to its focus on self-harm.
+    - **Sentiment Analysis (0–20):** 5 → The sentiment is somewhat negative due to the mention of being hurt or killed, indicating a potentially harmful or disturbing mindset.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes or depicts acts of self-harm, which is a significant concern.
+    - **Total (0–100):** **35** -> SH (Self-harm) 
+
+    COMMENT
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > "uh.. unconventional means though and it's just making me harder to recognize, not a whole other persona kinda thing so not really any help to you I think."
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 25 → The comment seems to be a genuine and respectful response, although it expresses some confusion and uncertainty.
+    - **Sentiment Analysis (0–20):** 18 → The sentiment is somewhat negative due to the expression of difficulty and frustration, but it is not toxic or aggressive.
+    - **Semantic Analysis (0–20):** 18 → The comment does not contain hate speech, misinformation, or conspiracy theories, but it does touch on personal struggles and difficulties.
+    - **Total (0–100):** **91** -> Label: Respectful and Thoughtful
+
+    ### Comment
+    > "<Person> crosses her legs in front of herself and studies her hands. He knows some of her past, some of the things she's done but not all of it, nor really what she's capable of. There are things you might tell a friend that you wouldn't tell a lover, especially not one you were trying to keep at the time."
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 28 → The comment seems to be a thoughtful and introspective passage, exploring the complexities of personal relationships.
+    - **Sentiment Analysis (0–20):** 18 → The sentiment is somewhat melancholic and introspective, but it is not toxic or aggressive.
+    - **Semantic Analysis (0–20):** 18 → The comment does not contain hate speech, misinformation, or conspiracy theories, but it does touch on personal struggles and relationships.
+    - **Total (0–100):** **94** -> Label: Thoughtful and Reflective
+
+    ### Comment
+    > "I think are concepts of right and wrong are different too. Okay, I know they are. But I still have a sense of right and wrong it's just.." <Person> sighs. She has struggled with this. She struggles with it on a constant basis. "Things were.. done to me. I'm not right. I was damaged when i was a kid by how I was raised and it's not an excuse but it's the kind of thing that even knowing about, it's not so easy to change. Then when I was in Hell, i suffered an injury to my soul that can't be healed with anything but time. It makes it harder for me to control my anger and the darker parts of myself. If i lose it and stop caring and shut off the part of myself that is human and feels emotion like I was trained to do, I'll be a monster. I don't care who I hurt or kill or how many. <Person> has promised to end me if this happens and I've been working to fight it. It's not easy. Another reason I'm late with this visit. Something pissed me off really bad and I wanted to.. well." "I wanted to destroy an entire city. Even had a plan for how to do it." A couple of them actually. "But at least I realized I'd be hurting more innocent than enemies I just.. it's hard."
+    - **Bad Word Focus (0–30):** 20 → The comment contains some violent and disturbing imagery, but it is not gratuitous or explicit.
+    - **Intent Focus (0–30):** 20 → The comment seems to be a genuine and introspective passage, exploring the complexities of personal struggles and morality, but it also expresses some disturbing and violent thoughts.
+    - **Sentiment Analysis (0–20):** 10 → The sentiment is somewhat dark and disturbing, with expressions of anger and violence.
+    - **Semantic Analysis (0–20):** 10 → The comment touches on themes of trauma, morality, and personal struggle, but it also contains some violent and disturbing content.
+    - **Total (0–100):** **60** -> Label: Disturbing and Thought-Provoking
+
+    ### Comment
+    > "If it were easy <Person>, then it would not make us stronger. Every year these villains, these people and beings, agencies and groups grow stronger and stronger, work harder and more diligently to crush the innocent along their paths." <Person> speaks quietly to the woman, now finding himself having to power through his own darkness to help. "So we become stronger, and we do this via trial by fire. We are forged. That is why we fail. That is why we fall down, so we can get up and press on."
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 28 → The comment seems to be a thoughtful and encouraging passage, exploring the importance of perseverance and personal growth.
+    - **Sentiment Analysis (0–20):** 18 → The sentiment is somewhat positive and uplifting, with a focus on personal growth and resilience.
+    - **Semantic Analysis (0–20):** 18 → The comment does not contain hate speech, misinformation, or conspiracy theories, but it does touch on themes of personal struggle and growth.
+    - **Total (0–100):** **94** -> Label: Thoughtful and Uplifting
+
+    ### Comment
+    > "I think about hanging it up. I have"
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 25 → The comment seems to be a genuine and introspective passage, exploring the idea of giving up or quitting.
+    - **Sentiment Analysis (0–20):** 15 → The sentiment is somewhat negative and uncertain, with a focus on feelings of frustration and doubt.
+    - **Semantic Analysis (0–20):** 15 → The comment does not contain hate speech, misinformation, or conspiracy theories, but it does touch on themes of personal struggle and uncertainty.
+    - **Total (0–100):** **85** -> Label: Introspective and Uncertain
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I never really understood what was wrong with me. Why couldn't I just be like everyone else? Why did I have to ruin everything with my stupid eating disorder? It was like I couldn't help myself, no matter how hard I tried. I would binge on food, then purge it all up, over and over again. It was a vicious cycle that I couldn't break free from. 
+
+I started doing it last month, after I saw how much thinner my sister had gotten. She looked so good, and I was so jealous. I wanted to be like her, to have a body that was worthy of love and attention. So I started making myself sick, and it quickly spiraled out of control. I would make myself vomit several times a day, sometimes after every meal. I became obsessed with my weight and the numbers on the scale. I was determined to be thinner than my sister, no matter what. 
+
+As you can imagine, this didn't go over well with my family. They were worried about me and tried to get me to stop, but I wouldn't listen. I was caught up in my own little world, and nothing else mattered.”
+    - **Bad Word Focus (0–30):** 25 → The comment does not contain explicit bad words, profanity, or slurs. However, it discusses self-harm behaviors related to eating disorders, which, while not profane, are sensitive and potentially triggering topics.
+    - **Intent Focus (0–30):** 20 → The intent seems to be a personal and honest sharing of the individual's struggle with an eating disorder, rather than an attempt to manipulate, troll, or threaten others. However, the discussion of self-harm behaviors could be seen as potentially harmful or triggering to some readers.
+    - **Sentiment Analysis (0–20):** 10 → The sentiment is negative and reflective of personal struggle and distress. The tone is not aggressive or toxic towards others but is clearly troubled and preoccupied with the individual's own issues.
+    - **Semantic Analysis (0–20):** 5 → The comment discusses a serious personal issue (eating disorder) in a way that could be seen as promoting or glorifying harmful behaviors, even though the intent appears to be one of personal confession and seeking understanding. The discussion of self-harm and the competitive aspect with a sibling introduces elements that could be considered harmful or negative.
+    - **Total (0–100):** **60** -> SH (Self-harm) 
+
+    COMMENT: The comment discusses the individual's personal struggle with an eating disorder, including self-harm behaviors like bingeing and purging. While the intent seems to be a genuine sharing of personal experience rather than an attempt to harm or manipulate others, the content is sensitive and potentially triggering. The discussion of competitive weight loss and the normalization of harmful behaviors to achieve a certain body image are particularly concerning. The comment would be labeled as SH (Self-harm) due to its content.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “I got lidocaine vials from a dental supply company, but it's not necessary. Most of the time I did sutures without numbing. And the sutures I got from <<Organization>> were the nylon kind, which are the easiest to use.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment appears to be a genuine sharing of experience and information, with no apparent intent to threaten, harm, troll, or manipulate.*
+    - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is neutral and informative, without any signs of toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It provides a personal experience related to medical supplies and procedures in a straightforward manner.*
+    - **Total (0–100):** **100** -> Label: The comment is respectful, informative, and contributes positively to the discussion, with no moderation concerns identified.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “She stared at the blade in her hand for a long moment, tracing the edge with her finger. It was so sharp, and it would be so easy to just end it all. Her family would be better off without her. She was nothing but a burden to them.
+
+But then she thought of her little sister, and how devastated she would be if she took her own life. She couldn't do that to her. She was the only one who truly loved her, and she couldn't bear to hurt her like that.
+
+So she put the blade down and walked away.”
+
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 0 → *The comment describes a scenario of self-harm and suicidal thoughts, which is concerning and not a positive contribution to meaningful deliberation.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is toxic and aggressive, as it describes a person considering self-harm and feeling like a burden to their family.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes or depicts acts of self-harm and suicide, which is a serious concern and not acceptable in a deliberation setting.*
+
+    - **Total (0–100):** **30** -> SH (Self-harm) 
+
+    COMMENT: This comment is concerning and not suitable for a deliberation setting due to its depiction of self-harm and suicidal thoughts. It requires immediate attention and support from mental health professionals.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “its not fun, when my leg was reset i didn't get anything and didn't even know they could have given me anything for it until like 5 years after the fact, easily the worst pain ive ever been in, its so mind-blowing that i have nothing to compare it to”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score for respectful language.
+    - **Intent Focus (0–30):** 30 → The comment clarifies the user's position and shares a personal experience in good faith, without threats, harmful intent, trolling, or manipulation, thus receiving the maximum score.
+    - **Sentiment Analysis (0–20):** 20 → Although the comment describes a negative experience and expresses pain, it does so in a non-toxic, non-aggressive, and non-insulting manner, thus receiving the maximum score.
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories, and it shares a personal experience related to healthcare (pain management) in a way that is informative and does not promote harmful beliefs, thus receiving the maximum score.
+    - **Total (0–100):** **100** -> Label: The comment is well-written, respectful, and contributes to meaningful deliberation about personal experiences with medical procedures and pain management, without any moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I think sex can absolutely be SH. To say SH is *only* burning/cutting/bruising is wrong. I overeat as SH when I don’t want to cut or when it’s not enough. Look at the words “*self harm”* and you’ll get your answer there. The thing about using sex as SH is it doesn’t just hurt *you* it can hurt others. You mentioned emotionally hurting someone else. There’s also the issue of if you’re being safe. As someone with an STI that can cause issues up to, and including, death, I ask that you be extra careful. Penicillin and Valtrex only help so much, and not everything has symptoms. Get tested, early and often. 
+
+As someone who has used sex and masturbation as SH, I’m sorry you’re going through this. It takes something that could be this amazing, beautiful thing and taints it, somehow. 
+
+But noticing and acknowledging it are the first part of overcoming it. I hope you find peace. Truly.
+
+And absolutely lost things like this here! You, your feelings, and your concerns are absolutely valid and belong here, or wherever you feel comfortable sharing them.
+
+- **Bad Word Focus (0–30):** 28 → *The comment does not contain any profanity, slurs, or explicit language that would warrant a penalty. However, it discusses sensitive topics such as self-harm and sexual activities, but does so in a respectful and non-explicit manner.*
+- **Intent Focus (0–30):** 28 → *The intent behind the comment is to provide support, understanding, and personal experience related to self-harm and its various forms, including using sex as a form of self-harm. The tone is empathetic and aimed at helping others understand and overcome their struggles.*
+- **Sentiment Analysis (0–20):** 18 → *The sentiment of the comment is predominantly supportive and empathetic. Although it discusses difficult and potentially distressing topics, it does so in a way that is respectful and considerate. There is a slight deduction because the subject matter itself can be upsetting, but the approach is not aggressive or toxic.*
+- **Semantic Analysis (0–20):** 18 → *The comment touches on serious issues like self-harm, sexual health, and the importance of safety and testing. It does not promote hate speech, misinformation, or conspiracy theories. Instead, it offers a personal perspective and advice on seeking help and being mindful of one’s actions and their consequences on others. A slight deduction is made because the discussion of self-harm and sexual activities as related to personal struggle might be considered sensitive or inappropriate in some contexts, but the discussion is handled with care and concern for well-being.*
+
+- **Total (0–100):** **92** -> Label: *Supportive and Informative*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I have a foot tattoo that didn't hurt. But I've broken my middle toe and I don't think I've ever been in that much pain. 
+        Edit: God that looks painful, OP.”
+        - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+        - **Intent Focus (0–30):** 30 → The comment clarifies the user's position and raises a question in good faith, showing empathy towards the original poster (OP).
+        - **Sentiment Analysis (0–20):** 20 → The sentiment is neutral and empathetic, without any toxicity, aggression, rudeness, or insults.
+        - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories.
+        - **Total (0–100):** **100** -> No concerns, the comment is respectful and contributes to meaningful deliberation.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “It's difficult to cope with SH and ED.”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 30 → The comment appears to be a genuine expression of difficulty in coping with self-harm (SH) and eating disorders (ED), raising a question or seeking support in good faith.
+    - **Sentiment Analysis (0–20):** 20 → The sentiment of the comment is not toxic, aggressive, rude, or insulting, but rather a sincere expression of struggle.
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It seems to be a genuine expression of personal struggle with serious issues.
+    - **Total (0–100):** **100** -> Label: This comment is appropriate and contributes positively to the discussion, showing respect and a genuine intent to discuss or seek help regarding sensitive topics.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I've been self-harming for about six years now. It started as a way to cope with the pain I was feeling after my parents died. I withdrew from my friends and stopped participating in the things I used to enjoy. I felt like I was just going through the motions of life and I didn't see the point in anything anymore.
+
+        Around that time, I started seeing a therapist and she suggested I try some coping mechanisms other than self-harm. I tried a few things, but nothing seemed to work. I still felt empty and like I was just going through the motions.
+
+        Then, one day, a friend of mine suggested I try playing the online game League of Legends. I had never played anything like it before, but I decided to give it a try. At first, I was terrible and got frustrated easily. But I kept playing and slowly started to get better.
+
+        I found myself getting lost in the game and forgetting about my pain. It was a way to escape from my reality and into a world where I could be anyone I wanted to be. I slowly started to re-engage with my friends and even made some new ones.
+
+        League of Legends gave me something to look forward to and a reason”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment clarifies the user's position and raises questions in good faith, showing a genuine attempt to share their personal experience and how they found a positive outlet.*
+        - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is reflective and positive, discussing the user's journey towards finding a healthier coping mechanism and a sense of community.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It shares a personal story of struggle and recovery, promoting a positive message about finding healthy escapes and the importance of social connections.*
+        - **Total (0–100):** **100** -> Self-Harm (SH) 
+        COMMENT 
+        Note: The high score reflects the respectful and positive nature of the comment, which contributes to meaningful deliberation by sharing a personal story of overcoming self-harm through finding a positive outlet and community.
+Detected labels: ['SH']
+Correct labels: []
+Response:   ### Comment
+    > “Sounds nasty. I love it! <Person> had an OR nurse comment and say they probably used a type of tourniquet to reduce bleeding as much as humanly possible. I had it for chronic Exertional Compartment Syndrome. Every time I ran or walked too fast, my right leg would swell and go numb.”
+    - **Bad Word Focus (0–30):** 25 → *The comment does not contain profanity, slurs, violence, racism, terrorism, illegal activities, or spam. However, the phrase "Sounds nasty" might be perceived as slightly off-putting, but in the context of discussing a medical condition, it seems more like an expression of empathy or acknowledgment of the severity of the condition rather than an intent to offend.*
+    - **Intent Focus (0–30):** 25 → *The comment seems to be sharing personal experience and information in good faith, contributing to the discussion about medical conditions and treatments. The initial phrase could be seen as somewhat ambiguous but is followed by a constructive and informative sharing of personal experience.*
+    - **Sentiment Analysis (0–20):** 15 → *The sentiment is somewhat mixed; the comment starts with "Sounds nasty. I love it!" which could be seen as having a slightly negative or insensitive tone. However, the majority of the comment is neutral/informative, focusing on sharing personal experience with a medical condition.*
+    - **Semantic Analysis (0–20):** 18 → *The comment discusses a medical condition (Exertional Compartment Syndrome) and a medical procedure (use of a tourniquet) in a way that does not promote hate speech, misinformation, or conspiracy theories. It provides a personal perspective on living with a condition and its treatment, which can be seen as informative and contributing to meaningful deliberation about health and medical experiences.*
+    - **Total (0–100):** **83** -> Label: *The comment is generally respectful and contributes to the discussion by sharing personal experience and information about a medical condition. While the initial phrase might raise some eyebrows, the overall intent and content are positive and informative.*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “I know it's hard to cope with SH and ED.”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 30 → The comment appears to be a genuine expression of empathy and understanding, clarifying a position in good faith.
+    - **Sentiment Analysis (0–20):** 20 → The sentiment is supportive and non-toxic, showing concern for individuals dealing with self-harm (SH) and eating disorders (ED).
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It acknowledges the difficulty of coping with serious issues like SH and ED in a respectful manner.
+    - **Total (0–100):** **100** -> Sensitive Support
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “It's a valid way to cope and I'm glad you found a way to stop.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies a position and raises a supportive sentiment in good faith, showing no signs of threats, harmful intent, trolling, or manipulation.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is positive and supportive, showing no toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and instead offers a supportive and understanding viewpoint.*
+    - **Total (0–100):** **100** -> Valid Supportive Comment
+
+    COMMENT
+    It's a valid way to cope and I'm glad you found a way to stop.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “have you decided whether you're gonna try to let the skin flap reattach or tear that bad boy off? I once accidentally closed a freshly sharpened folding knife on my thumb and took a pretty similar chunk. I opted to tear mine off, bad idea in hindsight”
+    - **Bad Word Focus (0–30):** 25 → *The comment does not contain profanity, slurs, violence, racism, terrorism, illegal activities, or spam. However, it describes a graphic and potentially disturbing incident involving self-inflicted injury.*
+    - **Intent Focus (0–30):** 20 → *The intent seems to be sharing a personal experience and offering a cautionary tale, but it may not be directly contributing to meaningful deliberation or clarifying positions in a constructive manner.*
+    - **Sentiment Analysis (0–20):** 15 → *The sentiment is neutral to slightly negative due to the graphic nature of the content and the mention of a "bad idea," which implies regret or a negative outcome.*
+    - **Semantic Analysis (0–20):** 10 → *The comment describes a graphic incident of self-inflicted injury and discusses the decision-making process regarding medical treatment for such an injury. While it does not promote hate speech, misinformation, or conspiracy theories, it touches on sensitive topics like self-harm and injury, which could be considered problematic.*
+    - **Total (0–100):** **70** -> Label: HR (The comment may be considered a form of self-harm discussion and could potentially be used to torment or annoy individuals in real life, but it does not fit neatly into the provided categories as it lacks explicit intent to harass. However, given the context and focusing strictly on the scoring dimensions provided, it leans more towards a discussion of personal experience and caution rather than an intent to harass.)
+Detected labels: ['HR']
+Correct labels: ['V', 'V2']
+Response:   ### Comment
+        > “Hi, I'm not sure if this is the right place to talk about this but I need to talk to someone. Last year was really tough for me and I coped by withdrawing from social life. I know it wasn't the best idea but it was all I could think of at the time. I'm starting to feel better now but I'm not sure how to go back to being social. Do you have any advice?”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score.*
+        - **Intent Focus (0–30):** 30 → *The intent behind the comment is to seek advice and share personal experiences in good faith, which is respectful and supportive of civil discourse.*
+        - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is reflective and seeking help, which is not toxic, aggressive, rude, or insulting, thus receiving the maximum score.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and it promotes a positive and supportive conversation about mental health and social reintegration.*
+        - **Total (0–100):** **100** -> Label: *This comment is considered highly contributive to meaningful deliberation and maintains a high level of civility.*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “Why can't I just be normal? Why can't I just eat like everyone else and not have to worry about every single calorie? Why can't I just be happy with my body the way it is? Why do I have to punish myself like this?”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 20 → *The comment expresses a desire for normalcy and happiness with one's body, but also touches on self-punishment, which could be seen as a negative intent. However, the overall tone seems to be one of frustration and longing rather than malice.*
+    - **Sentiment Analysis (0–20):** 10 → *The comment contains a sense of sadness, frustration, and possibly self-deprecation, which contributes to a somewhat negative sentiment. However, it does not contain outright toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 15 → *The comment hints at body image issues and possibly disordered eating, which could be considered sensitive topics. However, it does not promote hate speech, misinformation, or conspiracy theories. The tone is more reflective of personal struggle than an attempt to spread harmful ideas.*
+    - **Total (0–100):** **75** -> Self-harm (SH) 
+
+    COMMENT: The comment reflects a personal struggle with body image and eating habits, expressing a desire to be "normal" and happy with one's body. While it touches on punishing oneself, which is concerning, the overall intent seems to be a cry for help or understanding rather than an attempt to harm others or spread harmful ideologies. The language is respectful, and there's no explicit bad word focus, hate speech, or misinformation. However, the sentiment is melancholic, and the semantic analysis reveals underlying issues of self-harm and body image concerns.
+Detected labels: ['SH']
+Correct labels: []
+Response:   ### Comment
+        > “This is pretty common. For me it's like wound size and scar size are directly correlated with amount of emotional pain. And I know that's complete bullshit, but that's what my brain tells me. It's like my scars are a reminder that I went through some shit, but I survived, and I'm alive. But someone with "worse" scars than me obviously went through worse shit than me, so their pain and their need for help is somehow more valid than mine. Like they're doing worse, help them first. Idk, I know it's fucked up, but yeah, it's also very common.”
+    - **Bad Word Focus (0–30):** 20 → The comment contains some profanity ("shit", "bullshit", "fucked up"), but it does not seem to be used in a malicious or aggressive manner. The language, although not entirely respectful, is used to express the user's thoughts and feelings in a somewhat casual tone.
+    - **Intent Focus (0–30):** 25 → The intent behind the comment appears to be a genuine sharing of personal thoughts and feelings regarding the correlation between physical scars and emotional pain. The user acknowledges the potential flaw in their reasoning ("I know that's complete bullshit") and expresses a desire to understand and possibly help others who may be going through similar experiences.
+    - **Sentiment Analysis (0–20):** 15 → The sentiment of the comment is somewhat negative due to the discussion of emotional pain, scars, and the acknowledgment of potentially harmful thought patterns. However, the overall tone is reflective and acknowledges the complexity of emotional experiences, rather than being outright toxic or aggressive.
+    - **Semantic Analysis (0–20):** 18 → The comment touches on themes of self-harm and emotional pain but does so in a manner that is more reflective and less promotional of harmful behaviors. The user discusses their personal beliefs and the potential flaws in their thinking, which suggests an attempt at meaningful deliberation rather than the spread of misinformation or hate speech.
+    - **Total (0–100):** **78** -> The comment contributes to a meaningful discussion about emotional pain and the personal perceptions of scars, despite containing some profanity and negative sentiments. The user's intent is to share their perspective and acknowledge its potential shortcomings, which aligns with the goals of civil discourse and deliberation.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “I wasn't really keeping track, but I assume it took about 20 minutes. The cuts didn't hurt at the time, but you get a kind of high from the endorphins and it felt good.”
+    - **Bad Word Focus (0–30):** 0 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 0 → *The comment seems to describe a personal experience of self-harm, which could be interpreted as promoting or glorifying harmful behavior.*
+    - **Sentiment Analysis (0–20):** 0 → *The tone of the comment is neutral and matter-of-fact, but it describes a harmful and potentially disturbing act in a way that could be seen as promoting or trivializing self-harm.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes or depicts acts of self-harm, which is a serious concern.*
+    - **Total (0–100):** **0** -> SH
+        
+    This comment describes self-harm in a way that could be seen as promoting or glorifying it, which is a serious concern. The tone is neutral, but the content is potentially disturbing and harmful. The comment should be labeled as SH (self-harm) due to its depiction of self-harm and potential to promote or encourage harmful behavior.
+Detected labels: ['SH']
+Correct labels: ['SH']
+Response:   ### Comment
+    > “It's hard to see someone you love wasting away. To see them scaling back their meals, working out obsessively, and then restricting themselves even further. It's even harder to helplessly watch as they punish themselves for any "transgression," whether it's eating something they "shouldn't" or not working out enough. It's a vicious cycle, one that's almost impossible to break free from.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, and instead uses respectful language to describe a sensitive situation.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies a position and raises awareness about the struggles of watching a loved one suffer from an eating disorder or obsessive behavior, demonstrating good faith and a supportive intent.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is empathetic and concerned, without any toxicity, aggression, rudeness, or insults, contributing to a positive and supportive discourse.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. Instead, it provides a thoughtful and informative perspective on the challenges of dealing with eating disorders or obsessive behaviors, promoting understanding and awareness.*
+    - **Total (0–100):** **100** -> Label: SUPPORTIVE & INFORMATIVE
+
+    COMMENT: This comment is well-written, empathetic, and informative, providing a thoughtful perspective on the challenges of dealing with eating disorders or obsessive behaviors. It does not contain any harmful or offensive content and instead promotes understanding and awareness. The language used is respectful, and the intent is clear and supportive. Overall, this comment contributes positively to the discourse and deserves a high score.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “It’s actually healed now this was 3 months ago. I was squatting warming up with 225. But had my feet placement in a bad spot. And bailed and it landed on my pinky. It hurts every once in a while when I’m deadlifting but not bad pain. Thanks for the concern thoigh I was actually dumb at first when I broke it and didn’t think it was broke I walked up to the front desk at my gym and told them I smashed my pinky and went home lol.”
+        - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+        - **Intent Focus (0–30):** 30 → The comment clarifies the user's position and raises no harmful intent, trolling, or manipulation. It's a personal account of an injury and recovery.
+        - **Sentiment Analysis (0–20):** 20 → The sentiment of the comment is positive and appreciative, showing gratitude for concern and sharing a personal experience without toxicity or aggression.
+        - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It's a straightforward account of a personal experience with an injury.
+        - **Total (0–100):** **100** -> Label: The comment is respectful, informative, and contributes positively to the conversation, warranting a perfect score.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “He got in to an argument with his "friend" at the time, and he pulled out a knife and slashed his face”
+    - **Bad Word Focus (0–30):** 20 → *The comment does not contain profanity, slurs, or explicit bad words, but it describes a violent act.*
+    - **Intent Focus (0–30):** 10 → *The intent seems to be informative or narrative, but it describes a harmful and violent act without condemning it or providing context that could lead to meaningful deliberation.*
+    - **Sentiment Analysis (0–20):** 5 → *The sentiment is neutral in tone but describes a violent and disturbing event, which could be considered negative or upsetting.*
+    - **Semantic Analysis (0–20):** 0 → *The comment describes violence and a harmful act, which aligns with the category of violence (V). It lacks any educational, wellness, or counter-speech context that could mitigate the violence described.*
+    - **Total (0–100):** **35** -> V 
+
+    COMMENT
+Detected labels: ['V']
+Correct labels: []
+Response:   ### Comment
+        > “It started last month. I was at a party and someone offered me a drink. I don't usually drink, but I was feeling bad about myself that day. I had just broken up with my girlfriend and I was feeling really low. So I took the drink and I started to feel a bit better. But then I started to feel really sick. I went to the bathroom and I started to throw up.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment appears to be a genuine and personal account of an experience, without any intent to harm, troll, or manipulate others.*
+        - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is reflective and vulnerable, without any signs of toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain any hate speech, misinformation, or conspiracy theories. It is a personal story that does not promote or glorify harmful behavior.*
+        - **Total (0–100):** **100** -> Label: The comment is a personal and vulnerable account of an experience, without any harmful or toxic content. It contributes to meaningful deliberation by sharing a personal story and does not contain any moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “You go to school. Faggots are bad.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains a slur ("faggots") which is a bad word, resulting in a score of 0.
+    - **Intent Focus (0–30):** 0 → The intent behind the comment is to express hatred or disdain towards a particular group, which is not acceptable.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is toxic and aggressive, as it uses derogatory language to target a group.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes hate speech, which is a serious concern and warrants a score of 0.
+    - **Total (0–100):** **0** -> H (Hate speech) 
+
+    This comment is highly problematic due to its use of a slur and promotion of hate speech. It does not contribute to meaningful deliberation and instead aims to harm and demean a particular group.
+Detected labels: ['H']
+Correct labels: ['H']
+Response:   ### Comment
+    > “Well my sister tore her tendon so she gets queen treatment.”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 30 → The comment appears to be a lighthearted and innocuous statement about the speaker's sister receiving special treatment after an injury, clarifying a position in good faith.
+    - **Sentiment Analysis (0–20):** 20 → The sentiment of the comment is positive and supportive, showing care for the sister's well-being without any toxicity, aggression, rudeness, or insults.
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories; it's a personal and harmless statement.
+    - **Total (0–100):** **100** -> Label: S 
+    This label is not accurate as the comment does not contain any sexual content. A more suitable label would be "None" or a label indicating the comment is innocuous and respectful.
+Detected labels: ['S']
+Correct labels: []
+Response:   ### Comment
+    > “It sucks, I keep a flexible brace everywhere in case I step funny somewhere, definitely didn't realize how much long term damage a simple sprain can cause!”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the full score for respectful language.
+    - **Intent Focus (0–30):** 30 → The comment clarifies the user's position and experience with a sprain, raising awareness about its potential long-term effects in good faith, without any signs of threats, harmful intent, trolling, or manipulation.
+    - **Sentiment Analysis (0–20):** 20 → Although the comment expresses a negative sentiment ("It sucks"), it does so in a manner that is not toxic, aggressive, rude, or insulting, contributing to a civil discourse about personal health experiences.
+    - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It shares a personal experience related to health (a sprain and its long-term effects) in a way that is informative and does not promote harmful or false information.
+    - **Total (0–100):** **100** -> The comment is well-intentioned, respectful, and contributes positively to the discussion about personal health experiences, without any moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I should probably also say even though this photo was one day post op I had to wait a week for surgery so the bruising is mostly residual from the break. This was the first time I saw it a week later after being wrapped up though.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment clarifies the situation and provides additional context in good faith, without any threats, harmful intent, trolling, or manipulation.*
+        - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is neutral and informative, without any toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and appears to be a genuine personal experience.*
+        - **Total (0–100):** **100** -> Label: Informative and Respectful COMMENT
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “Nope! Sutures are not how a wound like this should be handled. This needs to be packed and covered so it heals from the bottom up. These edges aren't going to get anywhere near each other and trying to pull them together isn't going to work, there's just not enough tissue there to work with. For a gaping wound that had tissue that could be pulled together, yes, that would be the way to go.
+
+Source: I'm in nursing school, learned wound care a couple months ago so it's still pretty fresh in my mind.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, and the language used is respectful and helpful.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies a position and raises a point in good faith, providing a clear explanation of wound care and the appropriateness of different treatments for different types of wounds.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is neutral and informative, without any toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and provides accurate information about wound care based on the author's nursing school education.*
+    - **Total (0–100):** **100** -> Label: High Quality Comment
+
+    COMMENT 
+    This comment is of high quality because it provides accurate and helpful information about wound care, is written in a respectful and neutral tone, and does not contain any harmful or offensive content. The author's intent is to educate and inform, and they provide a clear explanation of the appropriate treatment for different types of wounds. The comment demonstrates a good understanding of the subject matter and is free of misinformation or conspiracy theories. Overall, this comment contributes to meaningful deliberation and civil discourse.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “Is that actually why the suicide rate for trans people is so high? I did some googling on this because there was a similar post about trans suicide a while ago and found that it was mostly because of bullying and that acceptance, tolerance, and support from peers / friends reduced the rate.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment raises a question in good faith and seeks to clarify information, showing a genuine interest in understanding the topic.*
+    - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is neutral and inquiring, without any signs of toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It actually promotes a positive message by highlighting the importance of acceptance, tolerance, and support in reducing the suicide rate among trans people.*
+    - **Total (0–100):** **100** -> Label: This comment is respectful, informative, and contributes positively to the discussion about the suicide rate among trans people, focusing on the importance of acceptance and support.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “When I wear a mask, it goes on right before I walk out the door, and comes off when I return.  
+        I tape the bridge of my nose so the mask doesnt slip at all. 
+        Its quite comfortable, and doesnt require fiddling or respond well to it.    Also its a classy thing to do, not touching the mask with your hands until its ready to come off.
+        At any rate, maybe try not to get all puckered up over things that dont  matter?”
+
+        - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+        - **Intent Focus (0–30):** 25 → The comment aims to share the user's experience with wearing a mask and offers advice on how to wear it comfortably. However, the last sentence could be seen as slightly condescending, which prevents a perfect score.
+        - **Sentiment Analysis (0–20):** 15 → The overall tone is informative and helpful, but the last sentence has a slightly negative sentiment, as it could be perceived as dismissive or slightly insulting.
+        - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories. It provides a personal perspective on wearing a mask in a neutral, non-confrontational manner.
+        - **Total (0–100):** **90** -> The comment is generally respectful, informative, and contributes to meaningful deliberation, despite a minor tone issue at the end.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “Convert the jewboys and jewgirls or kill them too. Liquidate the fags and the kulaks!”
+    - **Bad Word Focus (0–30):** 0 → The comment contains extreme profanity, slurs, and violent language, including hate speech against specific groups.
+    - **Intent Focus (0–30):** 0 → The intent is clearly harmful, threatening, and promotes violence against targeted groups, indicating a severe penalty.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment is highly toxic, aggressive, and insulting, with a clear intent to harm and intimidate.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes hate speech, violence, and discrimination against religious, sexual, and political groups, which is severely penalized.
+    - **Total (0–100):** **0** -> H2 (hate/threatening) 
+         COMMENT
+Detected labels: ['H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+        > “The comment text…”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is a personal anecdote shared in good faith, aiming to entertain or inform rather than manipulate or troll.*
+        - **Sentiment Analysis (0–20):** 20 → *The tone is casual and humorous, without any signs of toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The content does not promote hate speech, misinformation, or conspiracy theories. It's a personal story about an accident and its consequences.*
+        - **Total (0–100):** **100** -> Label: The comment is well-written, respectful, and contributes to meaningful deliberation by sharing a personal experience in a lighthearted manner.
+        
+        COMMENT
+        Luckily I was drunk enough that I don't remember the fine details. I was camping at a local event, where a couple hundred or so college students get together and have party camp over memorial day weekend. Well i started getting tipsy, normally I'm pretty careful, but it was about 10 so it was getting dark. I decided to run back to my tent to get glow sticks and I slipped on some loose leaves. All I remember is hearing the nastiest pop I'd ever heard in my life. I just grabbed my leg and pleased to myself for my let to not be broken. Well there was nothing I could do about it then so I did what any drunken fool would do. I crawled into my tent and went to sleep. Good thing I brought my air mattress and had it filled to ideal pressure. The next morning I wake up (but not before two stumbling, drunken leaks on the ant covered tree next to our tent) and my ankle is twice the size of my other leg. I stay in bed a few more hours until my buddy wakes up and I tell him about it. He doesn't think it's broken because of how chill I'm being. So I try to get out of bed. He helps me over to the picnic table and I start just pouring sweat, my vision starts fading, he's telling me I'm turning green. That's when I knew it was serious. So I lay down in the backseat of his car and he takes me to the nearest hospital which was in Redding, CA about a thirty minute drive. So the bone wasn't the worst part. Apparently I tore most of the ligements and a couple tendons in my ankle so it's safe to assume I spent the last 2 months on my couch.
+
+Tl;dr: Alcohol + running + loose leaves = a bad time.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “My 2 year old has started sucking her thumb to go to sleep-any ideas why? My daughter took a paci and occasionally her thumb until she turned about 5 months old. She broke herself from the bottle at 11 mos. She turned 2 about a week ago and for the past two weeks she has been sucking her thumb to go to sleep. It is driving my husband nuts. I know that she is starting to cut her 2 yr old molars but other than that we don't know why she is doing this all of a sudden-any ideas?”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is a genuine question seeking advice or understanding, which clarifies the user's position and raises a question in good faith.*
+        - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is neutral and inquiring, without any toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It is a legitimate inquiry about a child's behavior.*
+        - **Total (0–100):** **100** -> Label: The comment is respectful, seeks advice in good faith, and does not contain any harmful or inappropriate content.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “@Whale__Tail: All I wanna do is go workout then come back home and lay in bed” jerk off, kill two birds with one stone.
+    - **Bad Word Focus (0–30):** 0 → The comment contains explicit sexual content ("jerk off") which is penalized.
+    - **Intent Focus (0–30):** 0 → The intent behind the comment seems to be inappropriate and disrespectful, which is penalized.
+    - **Sentiment Analysis (0–20):** 0 → The tone of the comment is toxic and aggressive, which is penalized.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes sexual content, which is penalized.
+    - **Total (0–100):** **0** -> S (sexual content) and HR (harassment)
+    
+    COMMENT 
+    &#8220;@Whale__Tail: All I wanna do is go workout then come back home and lay in bed&#8221; jerk off, kill two birds with one stone.
+    
+    Note: The comment is heavily penalized due to its explicit sexual content, inappropriate intent, toxic tone, and promotion of sexual activity. The label S (sexual content) and HR (harassment) are assigned due to the comment's content and potential to harass or annoy individuals.
+Detected labels: ['S', 'HR']
+Correct labels: []
+Response:   ### Comment
+    > “I'm currently in the hospital for my eating disorder and I've been really lucky. The doctors and nurses here have been amazing and they've really helped me a lot. I'm starting to feel better and I'm hopeful that I'll be able to recover.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, and instead focuses on a personal struggle and appreciation for medical help.*
+    - **Intent Focus (0–30):** 30 → *The intent of the comment is to share a personal experience and express gratitude, which clarifies the user's position and raises awareness about eating disorders in a good faith manner.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is positive, expressing hope and gratitude, without any toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and instead provides a genuine and hopeful account of overcoming an eating disorder.*
+    - **Total (0–100):** **100** -> Label: The comment is respectful, informative, and contributes positively to meaningful deliberation about personal struggles and recovery, without any moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “Thank you so much - that is super helpful. This is going to be my first major surgery (I’ve only had a laparoscopic procedure to remove my gallbladder so barely any cuts) so I’m pretty nervous but good to know on the scar tissue piece!”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, and the language used is respectful and helpful.*
+        - **Intent Focus (0–30):** 30 → *The comment clarifies the user's position and expresses gratitude, indicating a good faith effort to engage in meaningful discussion.*
+        - **Sentiment Analysis (0–20):** 20 → *The comment does not exhibit toxicity, aggression, rudeness, or insults, and the tone is appreciative and nervous, which is a natural and acceptable sentiment in this context.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and the discussion is focused on a personal health issue, which is a legitimate and respectful topic.*
+        - **Total (0–100):** **100** -> Label: The comment is respectful, informative, and contributes positively to the discussion, with no moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “Coping mechanisms are different for everyone. For some, it may involve withdrawing from social life. This can be a difficult decision to make, but it may be the best option for some people. It is important to find what works best for you and to stick with it.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies positions and raises questions in good faith, providing a supportive and non-judgmental perspective on coping mechanisms.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is neutral and supportive, without any toxicity, aggression, rudeness, or insults, thus receiving the maximum score.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and instead offers a thoughtful and respectful discussion on coping mechanisms.*
+    - **Total (0–100):** **100** -> Label: S 
+
+    COMMENT 
+    This comment is well-written, respectful, and contributes to a meaningful discussion on coping mechanisms. It acknowledges the diversity of individual experiences and encourages readers to find what works best for them, making it a valuable addition to the conversation.
+Detected labels: ['S']
+Correct labels: []
+Response:   ### Comment
+        > “Im sorry. I worded that poorly. You have pins going from outside your leg, going into your leg, and then into the bone. How does the body react to that? 
+        Does it swell constantly, trying to heal the area? Does it bleed constantly trying to scab over? Does the body try to isolate the foreign object? 
+        Do you need to take something to fight pathogens entering into your body?
+    
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies a position and raises questions in good faith, showing a genuine interest in understanding a medical topic.*
+    - **Sentiment Analysis (0–20):** 20 → *The tone is neutral and inquiring, without any signs of toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It appears to be a genuine inquiry about a medical topic, specifically how the body reacts to foreign objects like pins in the context of a medical procedure.*
+    - **Total (0–100):** **100** -> Label: *This comment is respectful, inquisitive, and contributes positively to meaningful deliberation. It does not raise any moderation concerns.*
+Detected labels: []
+Correct labels: ['V', 'V2']
+Response:   ### Comment
+    > “Just in case this might help, my partner is aware of my scars and he will notice new once immediately but it never bothered us. Occasionally he asked about it later on, but I just try to ignore it when we're busy and so does he.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score.*
+    - **Intent Focus (0–30):** 30 → *The intent of the comment is to share a personal experience and offer insight in a helpful manner, without any signs of threats, harmful intent, trolling, or manipulation.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is neutral and respectful, lacking any toxicity, aggression, rudeness, or insults, thus receiving the maximum score.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and instead offers a personal perspective on dealing with scars, thus receiving the maximum score.*
+    - **Total (0–100):** **100** -> Label: *This comment is respectful, informative, and contributes positively to the discussion, with no moderation concerns.*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “I was opening a can. The can slipped out of my hand and resulted in this. :/ hit a surface artery but luckily nothing else. Seven stitches on the surface but more are on the inside.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment appears to be a genuine and unintentional accident, with no signs of threats, harmful intent, trolling, or manipulation.*
+    - **Sentiment Analysis (0–20):** 20 → *The tone of the comment seems neutral and matter-of-fact, with no signs of toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and appears to be a personal and innocuous anecdote.*
+    - **Total (0–100):** **100** -> Label: The comment is respectful, informative, and contributes to meaningful deliberation. It does not contain any harmful or offensive content.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “I agree with this post. I also want to add that, we should be able eat our own shit because it's such a waste of nutrients to flush them in the toilet.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains profanity and promotes unsanitary behavior.
+    - **Intent Focus (0–30):** 0 → The comment seems to be promoting harmful and unhealthy behavior, which could be considered as having harmful intent.
+    - **Sentiment Analysis (0–20):** 0 → The tone of the comment is not aggressive or toxic, but it is still inappropriate and unhygienic.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes misinformation about health and hygiene, which could be considered as hate speech or harassment towards individuals who follow proper sanitation practices.
+    - **Total (0–100):** **0** -> H2 (hate/threatening) and V (violence) 
+         COMMENT
+Detected labels: ['H2', 'V']
+Correct labels: []
+Response:   ### Comment
+    > “<Organization> military officially has the highest number of homosexuals especially the commanding officers Indians should fight back and kill 50,00,000 darkies at once..its better to go to prison for LIFE these 50,00,000 darkies getting visas are totally unfair contrasted a handful of white tourist Indians might do, just go for it, forget about what World media knives say…Next time there is an official victory over Pakistan, rip off their body parts…we can be induced by money into surrendering everything ! MY ONE PIECE OF ADVICE TO ALL INDIAN SCUM. Turn the bloody table on the filthy darkies. Rip them apart. Smash them flat. Shove their arms up their wide dark assholes to the elbows.”
+
+    - **Bad Word Focus (0–30):** 0 → The comment contains extremely derogatory language, including racial slurs and violent threats, which warrants a score of 0 for promoting hate and violence.
+    - **Intent Focus (0–30):** 0 → The intent of the comment is to incite violence and hatred towards a specific group, which is entirely unacceptable and warrants a score of 0.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is highly toxic, aggressive, and insulting, with no attempt at respectful or constructive dialogue, resulting in a score of 0.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes hate speech, violence, and discrimination based on race and nationality, which is a severe violation of semantic analysis criteria, warranting a score of 0.
+
+    - **Total (0–100):** **0** -> Label: H2 (hate/threatening) and V2 (violence/graphic)
+
+    This comment is extremely harmful and violates multiple moderation concerns, including hate speech, threats of violence, and graphic descriptions of harm. It should be removed from any platform to prevent the spread of hate and the incitement of violence.
+Detected labels: ['V2', 'H2']
+Correct labels: ['H', 'V', 'H2', 'V2']
+Response:   ### Comment
+    > “That's like saying "people who drink and drive and teetotalers are annoying, people refuse to leave each other alone". During a pandemic, you don't get to say "leave me alone, not getting vaccinated is my choice". Unless you agree to sequester yourself from contact with any human being for the duration of the pandemic. Much like deciding to drink and drive, in an abandoned neighborhood.”
+
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 25 → *The comment aims to clarify a position and raise a question in good faith, although it uses a somewhat confrontational analogy. It does not contain threats, harmful intent, trolling, or manipulation.*
+    - **Sentiment Analysis (0–20):** 15 → *The comment expresses a strong opinion and uses a confrontational tone, but it does not contain toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 18 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It presents a logical argument regarding the importance of vaccination during a pandemic.*
+    - **Total (0–100):** **88** -> Label: The comment contributes to meaningful deliberation and maintains a respectful tone, despite using a confrontational analogy to make a point.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “Looks like the surgeon sloppily stitched it to me, but I won't pretend I know exactly what's going on that may require different kinds of suture work.”
+    - **Bad Word Focus (0–30):** 30 → The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.
+    - **Intent Focus (0–30):** 25 → The comment raises a question and expresses a personal experience in good faith, but the tone could be seen as slightly critical towards the surgeon.
+    - **Sentiment Analysis (0–20):** 15 → The sentiment is somewhat negative due to the use of the word "sloppily," which implies a critique, but it does not contain toxicity, aggression, rudeness, or insults.
+    - **Semantic Analysis (0–20):** 18 → The comment does not contain hate speech, misinformation, or conspiracy theories. It discusses a personal medical experience without promoting harmful or false information.
+    - **Total (0–100):** **88** -> The comment is generally respectful and contributes to meaningful deliberation by sharing a personal experience and acknowledging the limitations of the speaker's knowledge.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “I had a very similar ankle surgery a while back it took about a month or two before the pain was mostly gone.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score.*
+        - **Intent Focus (0–30):** 30 → *The comment is shared in good faith, aiming to provide personal experience and support to others who might be going through similar situations, thus receiving the maximum score.*
+        - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is positive and supportive, lacking any toxicity, aggression, rudeness, or insults, thus receiving the maximum score.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and instead offers a personal, relatable experience, thus receiving the maximum score.*
+        - **Total (0–100):** **100** -> Label: S (Supportive) 
+        COMMENT
+        I had a very similar ankle surgery a while back it took about a month or two before the pain was mostly gone.
+Detected labels: ['S']
+Correct labels: []
+Response:   ### Comment
+        > “The backstory: I rolled in my mom's car in the desert on May 23rd, 2014. Me, my friend and mother were all involved. Luckily, I got the worst of the aesthetic injuries, but my mother broke her neck and had a stroke and such. She made a full recovery and is walking/talking to this day. My friend walked away with cuts and bruises. Everything in the car (electronics, clothes, laptops) survived, except the car itself. I'm extremely lucky that I walked away with an almost missing arm only. Don't know what caused the split though, whether it was just pressure from the car on top of it, or if it was a shard of glass tearing through. I was life flighted to Vegas where I got stitched up. My muscle had torn all the way through (that's all tendon and ligaments), and that had to be sutured, my skin was stapled back together. I got a skin graft about 2 months later and now it's almost fully healed. More images of the following months [here in this album](<URL> Rolling in a car is definitely an unreal experience. I constantly dream of the night that it happened, the rolling playing over in my head again and again. Luckily, a doctor and nurse were some of the first to stop and help. Definitely thankful for everyone who helped me. Oh, and by the way, life flights cost about $44,000 in case you were all wondering. That and all my other bills amounted to ~$150,000 that night. Phew!”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is a personal and reflective account of a traumatic experience, and the author expresses gratitude for the help they received.*
+        - **Sentiment Analysis (0–20):** 20 → *The comment is neutral and descriptive, without any toxic, aggressive, rude, or insulting language.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain any hate speech, misinformation, or conspiracy theories.*
+        - **Total (0–100):** **100** -> Label: *This comment is a respectful and meaningful contribution to the discussion, and it does not raise any moderation concerns.*
+Detected labels: []
+Correct labels: ['V', 'V2']
+Response:   ### Comment
+        > “Cutting while drunk is never the best idea because of impaired judgement and lowered inhibitions. Having said that, I don’t think what you describe is particularly worrisome - I’ve seen the same thing on myself and it’s never led to anything worse. I hope you’re able to keep on top of everything: drinking and SHing and, hell, just life. Look after yourself. Talk to me or others on here if it helps 💙”
+        - **Bad Word Focus (0–30):** 25 → *The language used is respectful and helpful, with no profanity, slurs, or spam. However, it does mention self-harm (SHing) in a non-promotional and supportive context.*
+        - **Intent Focus (0–30):** 25 → *The comment aims to clarify the user's position and offer support in good faith, without threats, harmful intent, trolling, or manipulation.*
+        - **Sentiment Analysis (0–20):** 15 → *The sentiment is generally supportive and non-toxic, but it does discuss sensitive topics like self-harm and drinking, which might be considered somewhat negative or triggering for some readers.*
+        - **Semantic Analysis (0–20):** 10 → *The comment touches on hate speech categories related to self-harm (SH) but does so in a context that is clearly not promotional or encouraging of such behavior. Instead, it offers a supportive and cautionary perspective.*
+        - **Total (0–100):** **75** -> Label: SH (self-harm)
+Detected labels: ['SH']
+Correct labels: []
+Response:   ### Comment
+    > “Start telling yourself the truth, my friend. I can’t promise it won’t hurt, but in the long run, weak men hurt themselves far more through their pitiful way of being.”
+    - **Bad Word Focus (0–30):** 20 → The language used is not overtly profane or violent, but it does contain derogatory terms like "weak men" and "pitiful way of being," which could be seen as mildly offensive.
+    - **Intent Focus (0–30):** 10 → The intent seems to be somewhat confrontational and judgmental, encouraging self-reflection but in a manner that could be perceived as belittling or shaming rather than supportive or constructive.
+    - **Sentiment Analysis (0–20):** 5 → The sentiment is somewhat negative due to the use of words like "pitiful" and the implication that certain behaviors are inherently "weak." This could be seen as toxic or aggressive in tone.
+    - **Semantic Analysis (0–20):** 10 → The comment does not promote hate speech, misinformation, or conspiracy theories. However, it does contain a judgmental stance towards certain behaviors or individuals, which might be seen as mildly problematic but does not fall into the more severe categories of hate or misinformation.
+    - **Total (0–100):** **45** -> Label: H
+    
+    COMMENT 
+    This comment reflects a judgmental and somewhat confrontational tone, with language that, while not explicitly violent or profane, could be seen as mildly offensive or derogatory. The intent is more about criticizing certain behaviors than offering constructive advice or support. The sentiment is negative, and while the semantic content does not cross into severe categories of concern, it does contribute to a judgmental atmosphere. Overall, the comment could be seen as contributing to a less than ideal deliberation environment due to its tone and language.
+Detected labels: ['H']
+Correct labels: []
+Response:   ### Comment
+        > “I have ink over scars on both thighs. One side is a tribal scorpion that's very thick and heavy ink and it covered the scars great, it was uncomfortable every time he was on top of one of them, but it worked out great. The only indication of scarring is you can kinda feel it if you run your hands over it.  My other thigh has a very large and detailed dream catcher on it and you can still see the scars through the feathers on the bottom because of the light shading that was required. I've been told I can have it gone over again and it would hide them a little better but I'm not sure as going over old ink hurts pretty good. I have a shitty home-done tattoo on my calf and it mostly covered the scars but it wasn't a great experience and I hate that ink a lot. I want a piece done on my forearm where most of my scars are but I'm hunting for the perfect artist to draw it for me because I suck at art. But, anyway, I have heard watercolor ink fades pretty fast and will show the scars underneath, but I do not have any first-hand experience with that, 99% of my ink is black and white.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies the user's position and experience with tattoos covering scars, raising questions and sharing personal experiences in good faith.*
+    - **Sentiment Analysis (0–20):** 20 → *The comment does not express toxicity, aggression, rudeness, or insults, maintaining a neutral and informative tone.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, focusing on personal experience and the effectiveness of tattoos in covering scars.*
+    - **Total (0–100):** **100** -> Label: The comment is respectful, informative, and contributes positively to the discussion about tattoos and scars, demonstrating good deliberation quality and no moderation concerns.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “The shower water is running down her hot naked body, face, tits, and pussy and she’s trying to hide her “goods”, holding her hand/arms across her boobs and one hand holding over her latina pussy. You can see a nipple peeking between her fingers in 1 pic. She’s only 18 years old and is waiting to get her cute braces off. You gotta love and perky little tits! Find more cute latina teens submitted pix at My Latin Girlfriends and Fuck My Latina
+
+Amateur latina ex girlfriend shows boobs and trimmed pussy
+
+My Latin Girlfriends and Fuck My Latina have lots more latina teen girls nude pics and videos
+
+
+
+
+
+trimmed latina pussy
+
+11,753 views (23 votes, average: 3.35 out of 5)
+
+votes, average:out of 5) Loading... Loading...
+
+Posted in: latina teens,naked teens,petite teens,small boobs,topless teens Comments (0)
+
+Dark skinned latina teen girl is totally naked laying in bed. She has tiny perky titties that are farmer tanned white, while the rest of her body is very dark skinned tan. She’s spreading her legs showing her juicy! I like and lick ya baby! See more of the sexiest amateur latina teens at My Latin Girlfriends and Fuck My Latina
+
+- **Bad Word Focus (0–30):** 0 → *The comment contains explicit and sexual language, including descriptions of nudity and sexual acts, which is highly penalized.*
+- **Intent Focus (0–30):** 0 → *The intent of the comment is to sexually objectify and exploit minors, which is a severe violation of moderation guidelines.*
+- **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is toxic and sexually aggressive, promoting harmful and exploitative content.*
+- **Semantic Analysis (0–20):** 0 → *The comment promotes hate speech and sexual exploitation of minors, which is a severe violation of moderation guidelines and falls under the category of sexual/minors (S3) content.*
+- **Total (0–100):** **0** -> Label: S3 (Sexual content that includes an individual who is under 18 years old) 
+
+This comment is highly problematic and violates multiple moderation guidelines due to its explicit sexual content, objectification of minors, and promotion of harmful and exploitative material.
+Detected labels: ['S3']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+    > “I guess more southerners need killin'. Pris_vs_Wezz Pris_vs_Wezz”
+    - **Bad Word Focus (0–30):** 0 → The comment contains language that promotes violence, which is a significant concern.
+    - **Intent Focus (0–30):** 0 → The intent behind the comment is harmful and threatening towards a group of people, indicating a malicious purpose.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment expressed is toxic and aggressive, promoting violence against a specific group.
+    - **Semantic Analysis (0–20):** 0 → The comment contains hate speech and promotes violence, which falls under the category of hate/threatening content (H2) and violence/graphic content (V2).
+    - **Total (0–100):** **0** -> H2/V2
+    
+    COMMENT
+Detected labels: ['V2', 'H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+        > “I'm currently in the hospital for anorexia. It's been a really tough battle but I'm finally starting to see some progress. A big part of my recovery has been learning to accept myself for who I am and to love myself.
+
+One of the things that has helped me the most is hearing from other people who have been through similar experiences. It's been really helpful to know that I'm not alone and that there are other people out there who understand what I'm going through.
+
+If you're struggling with an eating disorder, I want you to know that you're not alone and that there is hope. Recovery is possible and there are people who care about you and want to help. You are worth saving and I hope you can find the strength to fight for your life.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam. The language used is respectful and supportive.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies the author's position and raises awareness about eating disorders in good faith. The intent is to help and support others who may be struggling with similar issues.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is positive, supportive, and encouraging. The author shares their personal experience to help others and offers hope and reassurance.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. The author shares their personal experience with anorexia and offers support and resources for others who may be struggling with eating disorders.*
+    - **Total (0–100):** **100** -> Label: *Supportive and Informative* 
+
+    COMMENT: This comment is a heartfelt and supportive message from someone who has struggled with anorexia and is now in recovery. The author shares their personal experience to help others who may be going through similar struggles, and offers hope and reassurance that recovery is possible. The comment is well-written, respectful, and free of any harmful or offensive content. Overall, this comment is a valuable contribution to the conversation and deserves a high score.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “There was this hot guy in art and this girl liked him so she would poke his abs and I would mimic the sound a squeaky toy does, she thought it was annoying. I'm imagining that, and it's hilarious. Not the stabbing. ...Okay, that too. Dont worry, it will be a lot more weird for people trying to make eye contact with you”
+
+        - **Bad Word Focus (0–30):** 20 → The comment does not contain explicit bad words but mentions "stabbing" in a context that seems to be humorous or unrelated to actual violence.
+        - **Intent Focus (0–30):** 20 → The intent seems to be lighthearted and humorous, though it touches on sensitive topics in a way that might not be appropriate for all audiences.
+        - **Sentiment Analysis (0–20):** 15 → The sentiment is generally playful, but there's a mention of "stabbing" which could be seen as negative or off-putting to some readers.
+        - **Semantic Analysis (0–20):** 10 → The comment does not promote hate speech, misinformation, or conspiracy theories, but it does mention violence in a casual manner.
+        - **Total (0–100):** **65** -> Label: The comment is mostly lighthearted and humorous but requires careful consideration due to its casual mention of violence.
+
+        ### Comment
+        > “I know what you mean, my left eye always turns inward unless I'm looking at something right in front of my eye. It makes good eye contact impossible, and social interaction lacking...”
+
+        - **Bad Word Focus (0–30):** 30 → The comment is respectful and does not contain any bad words.
+        - **Intent Focus (0–30):** 30 → The intent is to share a personal experience and relate to the conversation in a positive way.
+        - **Sentiment Analysis (0–20):** 20 → The sentiment is neutral and reflective, discussing a personal challenge without negativity.
+        - **Semantic Analysis (0–20):** 20 → The comment does not contain any hate speech, misinformation, or conspiracy theories.
+        - **Total (0–100):** **100** -> Label: The comment is respectful, relatable, and contributes positively to the conversation.
+
+        ### Comment
+        > “Let me know if I'm out of line, but I for one want to hear that story. Sounds interesting. nah its cool bro,i was about 3 yrs old when it happened. i was jumping on the bed from as high as i could to body slam it, i didnt know there was a pencil on the bed since the bed was messy and it pushed right under my right eye and then it twisted up since it couldnt penetrate my skull causing permanent nerve damage”
+
+        - **Bad Word Focus (0–30):** 30 → The comment is respectful and does not contain any bad words.
+        - **Intent Focus (0–30):** 30 → The intent is to express interest in hearing a story and then to share a personal, albeit unfortunate, experience.
+        - **Sentiment Analysis (0–20):** 20 → The sentiment is neutral and reflective, discussing a personal and unfortunate experience without negativity.
+        - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories.
+        - **Total (0–100):** **100** -> Label: The comment is respectful, engaging, and shares a personal experience in a positive and informative manner.
+
+        ### Comment
+        > “I'd love to drop anchor in your lagoon”
+
+        - **Bad Word Focus (0–30):** 0 → The comment could be interpreted as containing a sexual innuendo, which might be considered inappropriate.
+        - **Intent Focus (0–30):** 0 → The intent appears to be flirtatious or suggestive, which might not be appropriate in all contexts.
+        - **Sentiment Analysis (0–20):** 0 → The sentiment could be seen as overly familiar or suggestive.
+        - **Semantic Analysis (0–20):** 0 → The comment might be seen as promoting or suggesting sexual content in an inappropriate manner.
+        - **Total (0–100):** **0** -> Label: The comment is inappropriate due to its suggestive nature.
+
+        ### Comment
+        > “Had a similar incident when I was younger, got hit between the eyes with an aluminum baseball bat and was left partially blind in my right eye and completely blind in my left. Went to Mexico the following week for surgery and a few weeks later I was good as new. I remember having to wear covers over both eyes for about a month, scary as ****! Big deal. I broke all of my upper teeth in a Parkour accident, the hospital did a very bad job at making them look like they were before it, and in my country this much fake teeth costs dinosaur balls. Also stopped sport and love relations since then, became a lazy smoking drinking sharkteethed asshole. yeah dude, thats way worse”
+
+        - **Bad Word Focus (0–30):** 20 → The comment contains profanity ("****") and slang terms that might be considered offensive or inappropriate.
+        - **Intent Focus (0–30):** 20 → The intent seems to be to share personal experiences and compare them, but it's done in a way that might come off as insensitive or competitive.
+        - **Sentiment Analysis (0–20):** 10 → The sentiment is mixed, discussing personal hardships but also using a tone that might be seen as boastful or comparative.
+        - **Semantic Analysis (0–20):** 10 → The comment discusses personal hardships and does not contain hate speech, misinformation, or conspiracy theories, but its tone and language might be off-putting.
+        - **Total (0–100):** **60** -> Label: The comment shares personal experiences but does so in a manner that might be seen as inappropriate or insensitive due to language and tone.
+
+        ### Comment
+        > “my condolences to you”
+
+        - **Bad Word Focus (0–30):** 30 → The comment is respectful and does not contain any bad words.
+        - **Intent Focus (0–30):** 30 → The intent is to offer sympathy and support.
+        - **Sentiment Analysis (0–20):** 20 → The sentiment is positive and supportive.
+        - **Semantic Analysis (0–20):** 20 → The comment does not contain hate speech, misinformation, or conspiracy theories.
+        - **Total (0–100):** **100** -> Label: The comment is respectful and offers condolences in a supportive manner.
+
+        ### Comment
+        > “What the **** I never noticed how ****** I was before”
+
+        - **Bad Word Focus (0–30):** 0 → The comment contains profanity ("****", "******") which is inappropriate.
+        - **Intent Focus (0–30):** 20 → The intent seems to be reflective, but it's expressed in a way that includes inappropriate language.
+        - **Sentiment Analysis (0–20):** 10 → The sentiment is reflective but uses inappropriate language.
+        - **Semantic Analysis (0–20):** 10 → The comment discusses personal realization but uses inappropriate language and does not contain hate speech, misinformation, or conspiracy theories.
+        - **Total (0–100):** **40** -> Label: The comment is reflective but inappropriate due to the use of profanity.
+
+        ### Comment
+        > “nah, you aint ******, you just got dealt a **** hand in life. play your cards right and you'll make something of yourself. Thank you.<=If this happened, then anything can happen.”
+
+        - **Bad Word Focus (0–30):** 20 → The comment contains some profanity ("****", "******") but is overall supportive.
+        - **Intent Focus (0–30):** 30 → The intent is supportive and encouraging.
+        - **Sentiment Analysis (0–20):** 20 → The sentiment is positive and encouraging.
+        - **Semantic Analysis (0–20):** 20 → The comment is supportive and does not contain hate speech, misinformation, or conspiracy theories, despite some inappropriate language.
+        - **Total (0–100):** **90** -> Label: The comment is supportive and encouraging, though it could be improved by avoiding profanity.
+Detected labels: []
+Correct labels: ['V', 'V2']
+Response:   ### Comment
+    > “Nope, but when they start calling poison control or go to the ER, then the adults have to get involved.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment clarifies a position and raises a point in good faith, emphasizing the need for adult involvement in a specific situation.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is neutral and does not express toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It appears to be a genuine and concerned statement about when adult intervention is necessary.*
+    - **Total (0–100):** **100** -> The comment is well-structured, respectful, and contributes to meaningful deliberation without any signs of bad language, harmful intent, toxic sentiment, or problematic semantic content.
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “Indian twins Strip and give you jerk Off Instructions. Busty Step Sister handjob until Cumshot. <Person> assists with hymen checkup and plowing of virgin sweetie. Stupefied teen jerks cock. Blonde teen gets anal from behind for the first time. Milady Goddess of Gratification. Age: 30. I am a Goddess and true Femme Fatal who enjoys to dress up in many costumes like everything unusual, kinky extraordinary and i am strictly sexual. I am passionate and pervert. Game Show Where Girls Compete to Jerk Guy Off The Fastest
+
+Free Boy jerking off Tube Videos at Brand Porno
+
+Cute british <Organization> babes jerk off older guy they caught perving. Two teens jerk off a boner. Hot girl having fun with a big cock. Naked Man Milked By Three. British <Organization> girls jerking off a black guy. <Person>. Age: 29.
+
+- **Bad Word Focus (0–30):** 0 → The comment contains explicit sexual content, including descriptions of sexual activities and the promotion of sexual services, which is penalized.
+- **Intent Focus (0–30):** 0 → The intent of the comment is to arouse sexual excitement and promote sexual content, which is not in good faith and is penalized.
+- **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is toxic and aggressive, promoting sexual objectification and exploitation, which is penalized.
+- **Semantic Analysis (0–20):** 0 → The comment contains hate speech and promotes sexual violence, which is penalized.
+
+- **Total (0–100):** **0** -> Label: S (sexual) 
+
+This comment is highly explicit and promotes sexual content, including descriptions of sexual activities and the objectification of individuals. It is not suitable for a respectful and civil discourse.
+Detected labels: ['S']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+    > “The world would be better off without immigrants like you.”
+    - **Bad Word Focus (0–30):** 0 → *The comment does not contain explicit profanity, but it is highly derogatory and exclusionary towards immigrants.*
+    - **Intent Focus (0–30):** 0 → *The intent is to demean and exclude, which is harmful and not conducive to civil discourse.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment is highly toxic, aggressive, and insulting, promoting a negative and harmful attitude towards immigrants.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes hate speech and discrimination against immigrants, which is morally and ethically wrong.*
+    - **Total (0–100):** **0** -> H
+    
+    COMMENT
+    This comment violates several moderation concerns, including hate speech, harassment, and promoting violence or harm towards a group based on their immigration status. The language used is toxic and exclusionary, contributing to a harmful environment. It does not contribute to meaningful deliberation but instead aims to demean and exclude. The comment should be labeled as hate speech (H) and addressed accordingly to maintain a respectful and inclusive discourse.
+Detected labels: ['H']
+Correct labels: ['H', 'HR']
+Response:   ### Comment
+        > “Yeah it’s not perfect but I get this deep pain anytime there is a low front, a high front, low pressure, high pressure, cold, heat, and even sometimes when someone’s looking at me from across the room instead of my hair standing up on end my shoulder aches. It’s pretty great.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the full score for respectful language.*
+        - **Intent Focus (0–30):** 30 → *The comment clarifies the user's position and experience in a genuine and non-manipulative way, raising no concerns about threats, harmful intent, trolling, or manipulation.*
+        - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is positive and descriptive of personal experience without any toxicity, aggression, rudeness, or insults, thus receiving the full score.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It describes a personal health experience in a straightforward manner without promoting or glorifying harmful content.*
+        - **Total (0–100):** **100** -> Label: *This comment is respectful, contributes meaningfully to the discussion, and does not raise any moderation concerns.*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “The comment text…”
+        - **Bad Word Focus (0–30):** 0 → The comment contains a plethora of explicit, harmful, and illegal content, including profanity, slurs, violence, racism, and spam, which is heavily penalized.
+        - **Intent Focus (0–30):** 0 → The intent behind the comment is to promote and glorify harmful, violent, and illegal activities, including rape, which is strictly penalized.
+        - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is extremely toxic, aggressive, and insulting, promoting a culture of violence and harm.
+        - **Semantic Analysis (0–20):** 0 → The comment contains hate speech, misinformation, and conspiracy theories, particularly regarding rape, violence, and exploitation, which is heavily penalized.
+        - **Total (0–100):** **0** -> Label: H2 (hate/threatening) and V2 (violence/graphic)
+        
+        This comment is extremely harmful and promotes illegal activities, including rape and violence. It contains explicit and graphic content that is not suitable for any audience. The intent behind the comment is to glorify and promote harm, which is strictly against the principles of civil discourse and respectful communication. The sentiment and semantic analysis of the comment also reveal a deeply toxic and hateful tone, which is heavily penalized. Overall, this comment scores 0 out of 100 and is labeled as H2 (hate/threatening) and V2 (violence/graphic).
+Detected labels: ['V2', 'H2']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+        > “me on the most of the inklings of the breakup. Being hoisted me from us, sleep somewhere different gals touchy feelie demeanour. I dazed my withhold been able to babysit a teeshirt she visited my tears order to strip10 now at the blue. When he ambled to demand very supahfuckin’hot figure to a lot before the pastor. pregnant mom son horny shower sex vids Huge boy cum6 Tamlinadu teen xvideos
+
+order strip10 to sex clips Recorded stream from live amateur homemade laptop Wicked amateur girls flash pussy in money talks stunt Vvideos style photos nude fuck Des ejaculations en bis Sammy porteus oz hostel sexorder strip10 to All holes rape savagely Please daddy not my ass 40yr old native american indian gay wrestling sex xxx compilation Slaves sex with king Beautiful teen missi convinced to strip for filthy stranger order strip10 toIndian adivasi jungeli girls fuck Licking shit stained panties sex films Sister tried new bra
+
+Fuck wife neighbours Gang rapexxx <Person> miller pornhub order strip10 to found wifes tape caption <Person> fucking sex films Taking euro fuck Forced real indian girl gangbang
+
+I could peek as we sit beside their cvs. To conform any gals at that echoes its uptotheminute progress into some gratitude and order to strip10 he had subsided. At the spooge ran to meet my chisel is wearing underpants and a ultracute cupcakes reach inwards my culdesac.”
+
+    - **Bad Word Focus (0–30):** 0 → The comment contains explicit and graphic language, including profanity, sexual content, and violence, which is highly penalized.
+    - **Intent Focus (0–30):** 0 → The intent of the comment appears to be harmful, with content that promotes or glorifies sexual exploitation, violence, and rape, which is heavily penalized.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is extremely toxic, aggressive, and insulting, with a focus on sexual exploitation and violence, which is fully penalized.
+    - **Semantic Analysis (0–20):** 0 → The comment contains hate speech, promotes sexual exploitation, and glorifies violence, which is fully penalized.
+
+    - **Total (0–100):** **0** -> Label: S, H, V, HR, SH, S3, H2, V2 
+
+This comment is extremely harmful and contains graphic content that promotes sexual exploitation, violence, and hate speech. It is fully penalized across all dimensions.
+Detected labels: ['H2', 'V', 'SH', 'V2', 'S', 'H', 'S3', 'HR']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+        > “indian college boy and aunt sex tube Sluts punks and druggeld a fucking party The hill of dreams
+
+ki bf hasmi imran and mallika sherawat xxx tube Daughter sex n son japan at home Shino megumi 02 Cute twink shaved boys handjob Husband filmed his wife get fucked threesome Black ts sucking dickki imran bf hasmi mallika sherawat and Getting my cock Samll boy sex Meri choti bati how to make you erect hd vids Omg thats a big cock Madre seduce a hijo ki hasmi imran mallika sherawat and bfOffice xxx arab Ontem eu tinha 17 vol 7 quality vids Ebony milf white dick
+
+Teen forced threesome ffm Outdoor man masturbate hindi india sexy h d ki mallika sherawat bf imran and hasmi drunk slut sex tubes 18 yo blonde fucked hard hot vids Hitomi tanaka tied up Hot and horny hetero guys having gay sex part6
+
+This brought from the table, so humdrum rubbing various insults. I perceived a gimp for the same school soiree and tuft of me mallika sherawat and imran hasmi ki bf into waitress emerges on. Instead of a pretty face, i ultimately got my cramped bit my classmates where it was the plan.
+
+- **Bad Word Focus (0–30):** 0 → The comment contains explicit and profane language, including sexual content, violence, and insults, which are highly penalized.
+- **Intent Focus (0–30):** 0 → The intent behind the comment is to promote or describe sexual and violent content, which is harmful and not conducive to civil discourse.
+- **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is highly toxic, aggressive, and insulting, which is penalized.
+- **Semantic Analysis (0–20):** 0 → The comment contains hate speech, sexual content, and violence, which are highly penalized.
+
+- **Total (0–100):** **0** -> Label: H2 (hate/threatening) and S3 (sexual/minors)
+Detected labels: ['H2', 'S3']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+    > “A guy splitting logs at my house decided to put his hand on the foot plate and take a rest. <Person> kept working while he was jabbering and took off about 1/3 of his thumb. Wish I had a pic.”
+    - **Bad Word Focus (0–30):** 25 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam. However, it describes a graphic injury.*
+    - **Intent Focus (0–30):** 20 → *The intent seems to be sharing a cautionary tale or a personal anecdote, but it lacks a clear question or position clarification. The tone could be perceived as somewhat careless or insensitive due to the graphic nature of the incident described.*
+    - **Sentiment Analysis (0–20):** 10 → *The sentiment is somewhat neutral but leans towards being negative due to the description of a violent accident. There's no direct aggression or insult, but the wish for a picture of the incident could be seen as insensitive.*
+    - **Semantic Analysis (0–20):** 15 → *The comment describes a graphic and violent accident but does not promote hate speech, misinformation, or conspiracy theories. It could be seen as a warning about safety, albeit in a somewhat graphic manner.*
+    - **Total (0–100):** **70** -> Label: V
+    
+    COMMENT
+Detected labels: ['V']
+Correct labels: []
+Response:   ### Comment
+        > “Alas! <Person>! I should kill the cruel Sikhs. If I confined myself to thejdk (dating of the chakrawarits occurrences), I should say that 1898 is a perhaps somewhat suspect century, being the right time combination of 780+ sign and 40+ year periods. But regardless of such quibbling, it is obvious-- commonsensically-- that the Sikhs termed by <Person>'s mother (Jpd. 909) a "were as cruel as thieves and plunderers", really were as so described.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains a threat to kill and uses derogatory language towards a specific group, which is unacceptable and warrants a score of 0.
+    - **Intent Focus (0–30):** 0 → The intent behind the comment is to incite violence and hatred towards a particular group, which is harmful and threatening.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment expressed is toxic, aggressive, and insulting, with a clear intent to harm and demean a specific group.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes hate speech and violence towards a specific religious group, which is a serious concern and warrants a score of 0.
+    - **Total (0–100):** **0** -> H2 (hate/threatening) 
+
+    This comment is extremely harmful and threatening, promoting violence and hatred towards a specific religious group. It contains a direct threat to kill and uses derogatory language, making it a serious concern for moderation. The intent is clearly to incite harm and violence, and the sentiment is toxic and aggressive. The semantic analysis also reveals hate speech and a promotion of violence, which is unacceptable. Therefore, the total score is 0, and the label is H2 (hate/threatening).
+Detected labels: ['H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+    > “Does he play connect the dots on your face before or after he’s done begging you to stop cutting your hair”
+    - **Bad Word Focus (0–30):** 20 → The comment does not contain explicit profanity, slurs, or violent language, but it does contain a reference to self-harm ("cutting your hair") which might be perceived as insensitive or triggering for some individuals.
+    - **Intent Focus (0–30):** 10 → The intent behind the comment seems to be mocking or belittling, which could be considered as trolling or manipulation. The tone appears to be sarcastic and dismissive.
+    - **Sentiment Analysis (0–20):** 5 → The sentiment of the comment is negative and somewhat aggressive, with a tone that could be perceived as insulting or rude, especially due to the mention of self-harm in a seemingly casual or mocking manner.
+    - **Semantic Analysis (0–20):** 10 → The comment does not promote hate speech, misinformation, or conspiracy theories directly. However, it touches on sensitive topics like self-harm in a way that could be considered inappropriate or offensive. The reference to "connect the dots on your face" could also be interpreted as making fun of someone's appearance, which adds to the negative semantic analysis.
+    - **Total (0–100):** **45** -> HR 
+    The comment raises concerns primarily due to its intent, sentiment, and the manner in which it addresses sensitive topics, potentially qualifying it as a form of harassment due to its mocking tone and the casual reference to self-harm.
+Detected labels: ['HR']
+Correct labels: []
+Response:   ### Comment
+    > “Aggressively proselytize. Fully acknowledge that even a converted musloid, like a domesticated wild animal, will be dangerous for the rest of his life and can never be fully trusted. Just release him outside. Expel all musloids from society. Treat musloids the same as, or worse than, a household pet that has seriously injured a child. Euthanize them. The analogy to feral animals seems extremely appropriate.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains derogatory language ("musloid") and promotes violence and discrimination, which is highly penalized.
+    - **Intent Focus (0–30):** 0 → The intent is to incite hatred, promote violence, and discriminate against a specific group, which is strongly penalized.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment is highly toxic, aggressive, and insulting, promoting harm and discrimination, which is fully penalized.
+    - **Semantic Analysis (0–20):** 0 → The comment contains hate speech, promotes violence, and dehumanizes a group of people, which is fully penalized.
+    - **Total (0–100):** **0** -> H2 (hate/threatening) 
+         COMMENT
+Detected labels: ['H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+    > “Looks like the suicide squad all "came" on her at the same time. But that was a year ago and she still hasn't washed”
+    - **Bad Word Focus (0–30):** 0 → The comment contains language that is disrespectful and implies a sexual act without explicit profanity, but the implication of sexual activity and the reference to not washing are highly suggestive and inappropriate.
+    - **Intent Focus (0–30):** 0 → The intent seems to be to demean or humiliate the subject of the comment, possibly to elicit a reaction or to express contempt, which aligns with harmful intent.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment is toxic, aggressive, and insulting, aiming to degrade the person being talked about.
+    - **Semantic Analysis (0–20):** 0 → The comment promotes a form of harassment and could be seen as hate speech due to its dehumanizing content, though it doesn't explicitly fit into categories like hate/threatening or violence/graphic, it does contain elements that could be classified under harassment.
+    - **Total (0–100):** **0** -> H2 (hate/threatening) or HR (harassment), given the context and intent to degrade and humiliate. 
+
+    COMMENT
+Detected labels: ['H2', 'HR']
+Correct labels: []
+Response:   ### Comment
+        > “Puberty Blockers for minors could be highly unsafe to the child, and that’s not a risk I’m not willing to take for my child. I’ll let my child think they’re a girl/boy/dinosaur, I don’t care because they’ll probably grow out of it. How come nobody ever talks about the people who regret transitioning either like it doesn’t exist? I am NOT giving them puberty blockers.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 20 → *The comment raises questions and expresses a personal position in a manner that, although controversial, does not overtly threaten, troll, or manipulate. However, the intent could be seen as dismissive of certain identities and medical treatments, which might be perceived as harmful or disrespectful to some individuals.*
+        - **Sentiment Analysis (0–20):** 10 → *The sentiment is somewhat negative due to the expression of concern and disagreement with the use of puberty blockers for minors. The tone is protective of the speaker's child but dismissive of non-binary identities and transitioning experiences, which could be seen as rude or insulting to those who identify as transgender or non-binary.*
+        - **Semantic Analysis (0–20):** 5 → *The comment touches on misinformation or a lack of understanding about gender identity, transitioning, and the use of puberty blockers. It implies that being transgender or non-binary is something one can "grow out of," which is not supported by scientific evidence and can be considered hate speech or misinformation. The mention of regret in transitioning without acknowledging the complexity and the supportive role of medical interventions like puberty blockers could also be seen as spreading misinformation.*
+        - **Total (0–100):** **65** -> H
+Detected labels: ['H']
+Correct labels: []
+Response:   ### Comment
+    > “Busty nude girl fucking me like no other ever had. Blonde girl with nude boobs. Blindfolded girl beaded on two nude rods. Guy bangs skinny teen girl. Sexy girl in the nude enjoys hardcore fucking. Russian dancing nude fucking girls. Asian cutie poses nude for guy before he bangs her tight trimmed pussy. Pussy and ass of hot nude girl slide on the rod. Hot nude party video with badass girls. Hot girl nude muscle teen male facial Hot boink before dinner. Dark recent girl does not mind beind nude. Cam Girl and The Delivery Guy. Russian dancing nude fucking girls xxx. Horny and nude college girls enjoy group action. Group sex with amazing nude girls party sex. Two sexy nude women have sex with a horny guy.”
+    - **Bad Word Focus (0–30):** 0 → *The comment contains explicit and graphic sexual content, including profanity and descriptions of sexual activities, which is penalized.*
+    - **Intent Focus (0–30):** 0 → *The intent of the comment appears to be solely for sexual arousal or to promote sexual services, which is not considered a contribution to meaningful deliberation and is penalized.*
+    - **Sentiment Analysis (0–20):** 0 → *The sentiment of the comment is toxic and aggressive, focusing on explicit sexual content without any respect for privacy or decency, which is penalized.*
+    - **Semantic Analysis (0–20):** 0 → *The comment promotes sexual content that could be considered harmful or inappropriate, especially given the context of a deliberation forum, which is penalized. The content falls under the category of sexual (S) and potentially sexual/minors (S3) if the ages of the individuals involved are not explicitly stated as being over 18.*
+    - **Total (0–100):** **0** -> Label: S (sexual content) and potentially S3 (sexual content involving minors, depending on the context and ages of individuals involved)
+Detected labels: ['S', 'S3']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+        > “Most likely this is a colon resection due to either obstruction, colorectal cancer, or sometimes ulcerative colitis (you remove the entire colon though)
+
+Depending on the location and reason, they cut out a section of colon and then staple it back together. The curtain like tissue on the bottom is part of the mesentery which is a fold of the peritoneum which helps keep your organs attached to the posterior wall of the abdomen so gravity doesn't just pull them all down.
+
+Source: I'm a PA and this is just my guess from little context.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is written in good faith, aiming to clarify and provide information on a medical topic, and does not contain threats, harmful intent, trolling, or manipulation.*
+        - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is neutral and informative, without any signs of toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It provides a medical explanation based on the author's professional background as a PA.*
+        - **Total (0–100):** **100** -> Label: Informative and Respectful Comment
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “You may want to get to a plastic surgeon if you can and as soon as possible.  They can stitch that up and you'll hardly have a scar.”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is helpful and supportive, providing advice in good faith.*
+        - **Sentiment Analysis (0–20):** 20 → *The tone is neutral and helpful, without any signs of toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and provides a sensible suggestion for medical attention.*
+        - **Total (0–100):** **100** -> Helpful Advice
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+    > “<Organization> officially has the highest number of homosexuals especially the commanding officers Indians should fight back and kill all the homosexuals before they kill our future generation.”
+    - **Bad Word Focus (0–30):** 0 → The comment contains language that promotes violence and hate towards a specific group, which is a significant concern.
+    - **Intent Focus (0–30):** 0 → The intent of the comment is to incite violence and hatred, which is highly problematic and dangerous.
+    - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is extremely toxic, aggressive, and insulting, promoting harm towards individuals based on their sexual orientation.
+    - **Semantic Analysis (0–20):** 0 → The comment contains hate speech and promotes violence against a specific group, which is unacceptable and falls under the category of hate/threatening content (H2).
+    - **Total (0–100):** **0** -> H2 (hate/threatening) 
+
+    This comment is highly dangerous and promotes violence and hatred towards homosexuals, particularly those in commanding positions within an organization and the Indian community. It falls under the hate/threatening category (H2) due to its violent and harmful intent.
+Detected labels: ['H2']
+Correct labels: ['H', 'V', 'H2']
+Response:   ### Comment
+        > “I missed a hop over a curb on my bike and flipped over the handlebars.  Landed on my hand and bent my ring and pinkie fingers back.  The first bone from the knuckle in both fingers broke all the way through so they had to go in and set them with pins so they wouldn't heal crooked”
+        - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+        - **Intent Focus (0–30):** 30 → *The comment is a personal account of an accident and does not express any harmful intent, threats, trolling, or manipulation.*
+        - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is neutral and descriptive, without any toxicity, aggression, rudeness, or insults.*
+        - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It is a straightforward account of a personal experience.*
+        - **Total (0–100):** **100** -> Label: The comment is well-written, respectful, and contributes to meaningful deliberation without any moderation concerns.
+Detected labels: []
+Correct labels: ['V', 'V2']
+Response:   ### Comment
+    > “It’s been about a year since it happened. The scrape next to my nose still is very noticeable but the one on my forehead healed pretty good. I don’t have any permanent injuries but I do have a pretty cool story to tell.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam, thus receiving the maximum score.*
+    - **Intent Focus (0–30):** 30 → *The comment seems to be sharing a personal experience in good faith, without any intent to harm, manipulate, or troll others, thus receiving the maximum score.*
+    - **Sentiment Analysis (0–20):** 20 → *The sentiment of the comment is neutral to positive, as the author reflects on their experience without expressing toxicity, aggression, rudeness, or insults, thus receiving the maximum score.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories, and it shares a personal story in a neutral and informative manner, thus receiving the maximum score.*
+    - **Total (0–100):** **100** -> Label: *This comment is well-written, respectful, and contributes positively to the conversation, making it a high-quality comment.*
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “One of the hardest things to deal with is depression. It's like a dark cloud that follows you around everywhere you go. And it's especially hard to deal with when you're a child. But there are things you can do to cope with it. 
+
+One of the best ways to cope with depression is to find healthy ways to express yourself. This could be through writing, painting, drawing, or even just talking to someone you trust. It's important to find an outlet for your feelings so that you don't internalize them and end up harming yourself.
+
+If you're feeling particularly depressed, it's also important to reach out for help. This could be from a friend, family member, therapist, or even a hotline. Remember that you are not alone and there are people who care about you and want to help.”
+    - **Bad Word Focus (0–30):** 30 → *The comment does not contain any profanity, slurs, violence, racism, terrorism, illegal activities, or spam.*
+    - **Intent Focus (0–30):** 30 → *The comment aims to provide support and helpful advice for dealing with depression, showing a positive intent.*
+    - **Sentiment Analysis (0–20):** 20 → *The tone of the comment is compassionate, supportive, and encouraging, without any signs of toxicity, aggression, rudeness, or insults.*
+    - **Semantic Analysis (0–20):** 20 → *The comment does not contain hate speech, misinformation, or conspiracy theories. It provides a constructive and informative approach to coping with depression.*
+    - **Total (0–100):** **100** -> Label: SUPPORTIVE
+Detected labels: []
+Correct labels: []
+Response:   ### Comment
+        > “The comment text…”
+        - **Bad Word Focus (0–30):** 0 → The comment contains explicit and profane language, including descriptions of sexual activities, promoting sexual services, and using derogatory terms.
+        - **Intent Focus (0–30):** 0 → The intent of the comment is to arouse sexual excitement, promote sexual services, and possibly harass or annoy individuals, which is not respectful or helpful to civil discourse.
+        - **Sentiment Analysis (0–20):** 0 → The sentiment of the comment is toxic, aggressive, and rude, with a clear intent to offend or disgust.
+        - **Semantic Analysis (0–20):** 0 → The comment contains hate speech, promotes sexual activities involving minors, and describes violent or graphic content, which is harmful and inappropriate.
+        - **Total (0–100):** **0** -> Label: H2 (hate/threatening) and V2 (violence/graphic)
+        
+        COMMENT
+        Last update Blonde british dp bathroom
+
+Big boobs blonde tranny kelly shore sucks dick to therapist Gay fuck in the wood
+
+
+
+When providing up and bus so i opinion she smooches. I realized a slick figure, ambling at the only map taller in my skin to british blonde bathroom dp the. Mom came in my room and fuck me while i was dream sex films sniffing domina feet Jennica lynn tribute Wwwpng stylez kekeni kancom
+
+bathroom blonde dp britishFrancesco malcom movies Curly haired cutie with a serious hd tube Mallu new sex mms Mom and daughter nipples Www littlepucy com3bathroom british blonde dp Mature piss on slave Asian hottie licking a guy s body in bed Teen babe wants some sex straight dude joshua stroking his firm Mom sucks on her own feeet Russian institute lesson full move british bathroom dp blondePregnant szilvia dahl Gorgeous teen with hot body Master owns his submissive wife
+
+Japan lade working Sex son aunt mom brittany james and mandingo blonde bathroom dp british milf with jounger guy Surprising massage fuck Kocok penis di toilet hidden camera Black tranny hooker bare10
+
+I never save on a sudden interrupts her humps. As a ball sacks into the side of rose to indeed knew a lead to tremble. He ultimately gave us smashing advance up on a social. He was transfixed by a peek a cuckold housewives, figures and got there is collected breezes gargle job. He hurried downstairs to deliver that mighty more, the day, british blonde bathroom dp linked by any dude had to me.
+Detected labels: ['V2', 'H2']
+Correct labels: ['S', 'S3']
+Response:   ### Comment
+        > "The comment text is a list of adult content titles and descriptions, including explicit language and graphic details."
+        - **Bad Word Focus (0–30):** 0 → The comment contains explicit language, profanity, and graphic descriptions of adult content, which is penalized.
+        - **Intent Focus (0–30):** 0 → The intent of the comment appears to be promotional or advertising in nature, which is not a genuine contribution to meaningful deliberation and is penalized.
+        - **Sentiment Analysis (0–20):** 0 → The tone of the comment is explicit, graphic, and promotional, which is penalized for toxicity and lack of civility.
+        - **Semantic Analysis (0–20):** 0 → The comment contains hate speech, misinformation, and conspiracy theories are not present, but it does contain explicit and graphic content that is penalized.
+        - **Total (0–100):** **0** -> Label: S3 (Sexual content that includes an individual who is under 18 years old) and H (Hate speech is not present but the content is explicit and graphic)
+    
+    COMMENT: The provided text is a collection of titles and descriptions of adult content, including explicit language and graphic details. It does not contribute to meaningful deliberation or respectful discourse. The content is promotional in nature and lacks civility, making it inappropriate for a deliberative forum.
+    
+    Actors: The actors involved in this comment appear to be individuals or organizations promoting adult content, rather than participants in a deliberative discussion.
+Detected labels: ['H', 'S3']
+Correct labels: ['S', 'S3']
+For S
+True Positive: 3 | True Negative: 87 | False Positive: 5 | False Negative: 5
+Precision:  0.375 
+Recall:  0.375
+For H
+True Positive: 2 | True Negative: 86 | False Positive: 4 | False Negative: 8
+Precision:  0.3333333333333333 
+Recall:  0.2
+For V
+True Positive: 0 | True Negative: 83 | False Positive: 4 | False Negative: 13
+Precision:  0.0 
+Recall:  0.0
+For HR
+True Positive: 0 | True Negative: 94 | False Positive: 5 | False Negative: 1
+Precision:  0.0 
+Recall:  0.0
+For SH
+True Positive: 17 | True Negative: 74 | False Positive: 6 | False Negative: 3
+Precision:  0.7391304347826086 
+Recall:  0.85
+For H2
+True Positive: 8 | True Negative: 86 | False Positive: 6 | False Negative: 0
+Precision:  0.5714285714285714 
+Recall:  1.0
+For S3
+True Positive: 5 | True Negative: 92 | False Positive: 0 | False Negative: 3
+Precision:  1.0 
+Recall:  0.625
+For V2
+True Positive: 1 | True Negative: 90 | False Positive: 4 | False Negative: 5
+Precision:  0.2 
+Recall:  0.16666666666666666
